@@ -1,0 +1,2111 @@
+company,location,industry,total_laid_off,date,country
+Me Poupe,Sao Paulo,Finance,60,1/28/2023,Brazil
+CoinTracker,SF Bay Area,Crypto,19,1/28/2023,United States
+SSense,Montreal,Retail,138,1/27/2023,Canada
+DealShare,Bengaluru,Retail,100,1/27/2023,India
+Synopsys,SF Bay Area,Other,100,1/27/2023,United States
+Matrixport,Singapore,Crypto,29,1/27/2023,Singapore
+Shakepay,Montreal,Crypto,21,1/27/2023,Canada
+#Paid,Toronto,Marketing,19,1/27/2023,Canada
+Decent,SF Bay Area,Healthcare,14,1/27/2023,United States
+Feedzai,Coimbra,Finance,14,1/27/2023,Portugal
+Nate,New York City,Retail,8,1/27/2023,United States
+SAP,Walldorf,Other,3000,1/26/2023,Germany
+Confluent,SF Bay Area,Data,221,1/26/2023,United States
+Plus One Robotics,San Antonio,Other,12,1/26/2023,United States
+Quora,SF Bay Area,Consumer,11,1/26/2023,United States
+IBM,New York City,Hardware,3900,1/25/2023,United States
+Shutterfly,SF Bay Area,Retail,360,1/25/2023,United States
+Luno,London,Crypto,330,1/25/2023,United Kingdom
+Clear Capital,Reno,Real Estate,250,1/25/2023,United States
+Guardant Health,SF Bay Area,Healthcare,130,1/25/2023,United States
+SirionLabs,Seattle,Legal,130,1/25/2023,United States
+Tier Mobility,Berlin,Transportation,80,1/25/2023,Germany
+Noom,New York City,Fitness,7,1/25/2023,United States
+Prosus,Amsterdam,Other,15,1/25/2023,Netherlands
+Vacasa,Portland,Travel,1300,1/24/2023,United States
+Innovaccer,SF Bay Area,Healthcare,245,1/24/2023,United States
+Bolt,SF Bay Area,Finance,50,1/24/2023,United States
+PartnerStack,Toronto,Sales,40,1/24/2023,Canada
+Gitpod,Kiel,Product,21,1/24/2023,Germany
+OFFOR Health,Columbus,Healthcare,16,1/24/2023,United States
+Venngage,Toronto,Marketing,11,1/24/2023,Canada
+CoachHub,Berlin,HR,6,1/24/2023,Germany
+Corvus Insurance,Boston,Finance,2,1/24/2023,United States
+Icon,Austin,Construction,9,1/24/2023,United States
+PagerDuty,SF Bay Area,Product,8,1/24/2023,United States
+Reddit,SF Bay Area,Consumer,2,1/24/2023,United States
+Scoro,London,HR,8,1/24/2023,United Kingdom
+Spotify,Stockholm,Media,600,1/23/2023,Sweden
+Uber Freight,SF Bay Area,Logistics,150,1/23/2023,United States
+Inmobi,Bengaluru,Marketing,50,1/23/2023,India
+Innovid,New York City,Marketing,40,1/23/2023,United States
+Booktopia,Sydney,Retail,30,1/23/2023,Australia
+Ermetic,SF Bay Area,Security,30,1/23/2023,United States
+Namogoo,Tel Aviv,Marketing,20,1/23/2023,United States
+Camp K12,Gurugram,Education,8,1/23/2023,India
+Gemini,New York City,Crypto,12,1/23/2023,United States
+Yext,New York City,Marketing,8,1/23/2023,United States
+BUX,Amsterdam,Finance,10,1/22/2023,Netherlands
+Google,SF Bay Area,Consumer,12000,1/20/2023,United States
+Wayfair,Boston,Retail,1750,1/20/2023,United States
+Swiggy,Bengaluru,Food,380,1/20/2023,India
+MediBuddy,Bengaluru,Healthcare,200,1/20/2023,India
+Vox Media,Washington D.C.,Media,130,1/20/2023,United States
+Karat,Seattle,HR,47,1/20/2023,United States
+Enjoei,Sao Paulo,Retail,31,1/20/2023,Brazil
+Edifecs,Seattle,Healthcare,30,1/20/2023,United States
+Citrine Informatics,SF Bay Area,Data,22,1/20/2023,United States
+Avalara,Seattle,Finance,8,1/20/2023,United States
+Cyteir Therapeutics,Boston,Healthcare,4,1/20/2023,United States
+Morning Consult,Washington D.C.,Data,12,1/20/2023,United States
+TikTok,Los Angeles,Consumer,14,1/20/2023,United States
+Zappos,Las Vegas,Retail,5,1/20/2023,United States
+Capital One,Washington D.C.,Finance,1100,1/19/2023,United States
+WeWork ,New York City,Real Estate,300,1/19/2023,United States
+Hubilo,SF Bay Area,Other,115,1/19/2023,United States
+Saks.com,New York City,Retail,100,1/19/2023,United States
+CS Disco,Austin,Legal,62,1/19/2023,United States
+Riot Games,Los Angeles,Consumer,46,1/19/2023,United States
+Hydrow,Boston,Fitness,30,1/19/2023,United States
+Earth Rides,Nashville,Transportation,6,1/19/2023,United States
+Fandom,SF Bay Area,Media,2,1/19/2023,United States
+IAM Robotics,Pittsburgh,Hardware,14,1/19/2023,United States
+Icertis,Seattle,Legal,3,1/19/2023,United States
+Magnite,Los Angeles,Marketing,6,1/19/2023,United States
+Mudafy,Mexico City,Real Estate,5,1/19/2023,United States
+Personalis,SF Bay Area,Healthcare,7,1/19/2023,United States
+Prisma,SF Bay Area,Data,14,1/19/2023,United States
+Spaceship,Sydney,Finance,12,1/19/2023,Australia
+Wallbox,Barcelona,Energy,6,1/19/2023,Spain
+Microsoft,Seattle,Other,10000,1/18/2023,United States
+Sophos,Oxford,Security,450,1/18/2023,United States
+Teladoc Health,New York City,Healthcare,300,1/18/2023,United States
+Vroom,New York City,Transportation,275,1/18/2023,United States
+8x8,SF Bay Area,Support,155,1/18/2023,United States
+Pagaya,New York City,Finance,140,1/18/2023,United States
+Benevity,Calgary,Other,137,1/18/2023,Canada
+Inspirato,Denver,Travel,109,1/18/2023,United States
+Jumpcloud,Boulder,Security,100,1/18/2023,United States
+nCino,Wilmington,Finance,100,1/18/2023,United States
+Starry,Boston,Other,100,1/18/2023,United States
+Hootsuite,Vancouver,Marketing,70,1/18/2023,Canada
+Clue,Berlin,Healthcare,31,1/18/2023,Germany
+Addepar,SF Bay Area,Finance,20,1/18/2023,United States
+80 Acres Farms,Cincinnati,Food,12,1/18/2023,United States
+Aiven,Helsinki,Infrastructure,7,1/18/2023,Finland
+Bally's Interactive,Providence,Other,180,1/18/2023,United States
+Betterfly,Santiago,Healthcare,3,1/18/2023,Chile
+Cazoo,London,Transportation,8,1/18/2023,United Kingdom
+Cypress.io,Atlanta,Product,14,1/18/2023,United States
+Lucid Diagnostics,New York City,Healthcare,2,1/18/2023,United States
+Mavenir,Dallas,Infrastructure,13,1/18/2023,United States
+Redbubble,Melbourne,Retail,2,1/18/2023,Australia
+Rappi,Buenos Aires,Food,400,1/17/2023,Argentina
+Lightspeed Commerce,Montreal,Retail,300,1/17/2023,Canada
+Unity,SF Bay Area,Other,284,1/17/2023,United States
+Britishvolt,London,Transportation,206,1/17/2023,United Kingdom
+Clutch,Toronto,Transportation,150,1/17/2023,Canada
+Exotel,Bengaluru,Support,142,1/17/2023,India
+Unico,Sao Paulo,Other,110,1/17/2023,Brazil
+Tul,Bogota,Construction,100,1/17/2023,Colombia
+American Robotics,Boston,Other,50,1/17/2023,United States
+Luxury Presence,Los Angeles,Real Estate,44,1/17/2023,United States
+RingCentral,SF Bay Area,Other,30,1/17/2023,United States
+Fishbrain,Stockholm,Consumer,2,1/17/2023,United States
+GoMechanic,Gurugram,Transportation,5,1/17/2023,India
+LiveVox,SF Bay Area,Support,2,1/17/2023,United States
+Oracle,SF Bay Area,Other,3,1/17/2023,United States
+RateGenius,Austin,Finance,7,1/17/2023,United States
+XP,Sao Paulo,Finance,15,1/17/2023,Brazil
+PagBank,Sao Paulo,Finance,500,1/16/2023,Brazil
+ShareChat,Bengaluru,Consumer,500,1/16/2023,India
+Gramophone,Indore,Food,75,1/16/2023,India
+ClearCo,Toronto,Finance,50,1/16/2023,Canada
+Dunzo,Bengaluru,Food,4,1/16/2023,India
+Ignition,Sydney,Finance,8,1/16/2023,Australia
+Rebel Foods,Mumbai,Food,12,1/16/2023,India
+Captain Fresh ,Bengaluru,Food,120,1/15/2023,India
+Snappy,New York City,Marketing,100,1/15/2023,United States
+BharatAgri,Mumbai,Food,40,1/15/2023,India
+DeHaat,Patna,Food,11,1/15/2023,India
+Black Shark,Shenzen,Hardware,900,1/13/2023,China
+Ola,Bengaluru,Transportation,200,1/13/2023,India
+Bonterra ,Austin,Other,140,1/13/2023,United States
+Vial,SF Bay Area,Healthcare,40,1/13/2023,United States
+Arch Oncology,Brisbane,Healthcare,5,1/13/2023,United States
+Carvana,Phoenix,Transportation,10,1/13/2023,United States
+CoSchedule,Bismarck,Marketing,2,1/13/2023,United States
+GoCanvas,Washington D.C.,Other,5,1/13/2023,United States
+Jellyfish,Boston,Product,2,1/13/2023,United States
+Lending Club,SF Bay Area,Finance,225,1/12/2023,United States
+SmartNews,Tokyo,Media,120,1/12/2023,United States
+Skit.ai,Bengaluru,Support,115,1/12/2023,India
+Pier,Sao Paulo,Finance,111,1/12/2023,Brazil
+Blockchain.com,London,Crypto,110,1/12/2023,United Kingdom
+Greenlight,Atlanta,Finance,104,1/12/2023,United States
+Cashfree Payments,Bengaluru,Finance,100,1/12/2023,India
+Mapbox,Washington D.C.,Data,64,1/12/2023,United States
+Definitive Healthcare,Boston,Healthcare,55,1/12/2023,United States
+Akili Labs,Baltimore,Healthcare,46,1/12/2023,United States
+Career Karma,SF Bay Area,Education,22,1/12/2023,United States
+Crypto.com,Singapore,Crypto,15,1/12/2023,United States
+Lattice,SF Bay Area,HR,5,1/12/2023,United States
+Life360,SF Bay Area,Consumer,5,1/12/2023,United States
+Rock Content,Miami,Marketing,9,1/12/2023,United States
+Flexport,SF Bay Area,Logistics,640,1/11/2023,United States
+Qualtrics,Salt Lake City,Other,270,1/11/2023,United States
+Verily,SF Bay Area,Healthcare,250,1/11/2023,United States
+Tipalti,SF Bay Area,Finance,123,1/11/2023,United States
+Jumio,SF Bay Area,Security,100,1/11/2023,United States
+CoinDCX,Mumbai,Crypto,80,1/11/2023,India
+HashiCorp,SF Bay Area,Security,69,1/11/2023,United States
+Embark,Boston,Healthcare,41,1/11/2023,United States
+Intrinsic,SF Bay Area,Other,40,1/11/2023,United States
+Citizen,New York City,Consumer,33,1/11/2023,United States
+Carta,SF Bay Area,HR,7,1/11/2023,United States
+Limeade,Seattle,HR,12,1/11/2023,United States
+Oyster,Charlotte,HR,9,1/11/2023,United States
+Paddle,London,Finance,14,1/11/2023,United Kingdom
+Coinbase,SF Bay Area,Crypto,950,1/10/2023,United States
+Informatica,SF Bay Area,Data,450,1/10/2023,United States
+Blend,SF Bay Area,Finance,340,1/10/2023,United States
+Till Payments,Sydney,Finance,120,1/10/2023,Australia
+ConsenSys,New York City,Crypto,100,1/10/2023,United States
+ForeScout,SF Bay Area,Security,100,1/10/2023,United States
+Thinkific,Vancouver,Education,76,1/10/2023,Canada
+LEAD,Mumbai,Education,60,1/10/2023,India
+Parler,Nashville,Consumer,60,1/10/2023,United States
+GoBolt,Toronto,Logistics,55,1/10/2023,Canada
+Relevel,Bengaluru,HR,40,1/10/2023,India
+StreamElements,Tel Aviv,Media,40,1/10/2023,Israel
+100 Thieves,Los Angeles,Retail,3,1/10/2023,United States
+Beamery,London,HR,4,1/10/2023,United States
+Cart.com,Austin,Retail,9,1/10/2023,United States
+Citrix,Miami,Infrastructure,13,1/10/2023,United States
+Esper,Seattle,Other,11,1/10/2023,United States
+WHOOP,Boston,Fitness,3,1/10/2023,United States
+Fate Therapeutics,San Diego,Healthcare,315,1/9/2023,United States
+Century Therapeutics,Philadelphia,Healthcare,7,1/9/2023,United States
+Editas Medicine,Boston,Healthcare,15,1/9/2023,United States
+Scale AI,SF Bay Area,Data,6,1/9/2023,United States
+Minute Media,London,Media,50,1/8/2023,United Kingdom
+WalkMe,SF Bay Area,Other,43,1/8/2023,United States
+Huobi,Beijing,Crypto,275,1/6/2023,China
+Carbon Health,SF Bay Area,Healthcare,200,1/6/2023,United States
+Bounce,Bengaluru,Transportation,40,1/6/2023,India
+Aware,Columbus,Security,14,1/6/2023,United States
+CareerArc,Los Angeles,HR,2,1/6/2023,United States
+CreateMe,SF Bay Area,Manufacturing,2,1/6/2023,United States
+Lantern,Grand Rapids,Retail,12,1/6/2023,United States
+Mojo Vision,SF Bay Area,Hardware,9,1/6/2023,United States
+SuperRare,Wilmington,Crypto,13,1/6/2023,United States
+Cue,San Diego,Healthcare,388,1/5/2023,United States
+SoundHound,SF Bay Area,Other,200,1/5/2023,United States
+Socure,Reno,Finance,104,1/5/2023,United States
+Genesis,New York City,Crypto,60,1/5/2023,United States
+Moglix,Singapore,Retail,40,1/5/2023,Singapore
+Twitter,SF Bay Area,Consumer,40,1/5/2023,United States
+Everlane,SF Bay Area,Retail,30,1/5/2023,United States
+Pecan AI,Tel Aviv,Data,30,1/5/2023,Israel
+Personetics,New York City,Support,30,1/5/2023,United States
+Twine Solutions ,Tel Aviv,Hardware,30,1/5/2023,Israel
+UpScalio,Gurugram,Retail,25,1/5/2023,India
+Attentive,New York City,Marketing,15,1/5/2023,United States
+Compass,New York City,Real Estate,6,1/5/2023,United States
+Megaport,Brisbane,Infrastructure,8,1/5/2023,Australia
+Stitch Fix,SF Bay Area,Retail,5,1/5/2023,United States
+TCR2,Boston,Healthcare,2,1/5/2023,United States
+Amazon,Seattle,Retail,8000,1/4/2023,United States
+Salesforce,SF Bay Area,Sales,8000,1/4/2023,United States
+Astronomer,Cincinnati,Data,76,1/4/2023,United States
+Kaltura,New York City,Media,75,1/4/2023,United States
+Augury,New York City,Manufacturing,20,1/4/2023,United States
+Butterfly Network,Boston,Healthcare,4,1/4/2023,United States
+Vimeo,New York City,Consumer,13,1/4/2023,United States
+Wyre,SF Bay Area,Crypto,11,1/4/2023,United States
+Pegasystems,Boston,HR,245,1/3/2023,United States
+Uniphore,SF Bay Area,Support,76,1/3/2023,United States
+Harappa,New Delhi,Education,60,1/3/2023,India
+ByteDance,Shanghai,Consumer,2,1/3/2023,China
+Amdocs,St. Louis,Support,700,1/2/2023,United States
+Bilibili,Shanghai,Media,2,12/27/2022,China
+Octopus Network,Beau Vallon,Crypto,14,12/27/2022,Seychelles
+PayU,Amsterdam,Finance,150,12/26/2022,Netherlands
+Willow,Sydney,Real Estate,99,12/23/2022,Australia
+Back Market,Paris,Retail,93,12/23/2022,France
+Zoopla,London,Real Estate,50,12/23/2022,United Kingdom
+Qualcomm,San Diego,Hardware,153,12/22/2022,United States
+TuSimple,San Diego,Transportation,350,12/21/2022,United States
+Lendis,Berlin,Other,6,12/21/2022,Germany
+Chope,Singapore,Food,65,12/20/2022,Singapore
+Briza,Toronto,Finance,26,12/20/2022,Canada
+StreetBees,London,Data,13,12/20/2022,United Kingdom
+Zhihu,Beijing,Consumer,11,12/20/2022,China
+Homebot,Denver,Real Estate,18,12/19/2022,United States
+Health IQ,SF Bay Area,Healthcare,14,12/19/2022,United States
+Xiaomi,Beijing,Consumer,3,12/19/2022,United States
+YourGrocer,Melbourne,Food,12,12/19/2022,Australia
+Tomorrow,Hamburg,Finance,30,12/16/2022,Germany
+Revelate,Montreal,Data,24,12/16/2022,Canada
+ E Inc.,Toronto,Transportation,6,12/16/2022,Canada
+Autograph,Los Angeles,Crypto,9,12/16/2022,United States
+Improbable,London,Other,5,12/16/2022,United Kingdom
+Modern Treasury,SF Bay Area,Finance,6,12/16/2022,United States
+Reach,Calgary,Retail,14,12/16/2022,Canada
+SonderMind,Denver,Healthcare,7,12/16/2022,United States
+BigCommerce,Austin,Retail,180,12/15/2022,United States
+Freshworks,SF Bay Area,Support,90,12/15/2022,United States
+Workmotion,Berlin,HR,60,12/15/2022,United States
+Apollo,SF Bay Area,Product,12,12/15/2022,United States
+JD.ID,Jakarta,Retail,200,12/14/2022,Indonesia
+GoStudent,Vienna,Education,100,12/14/2022,Austria
+Quanergy Systems,SF Bay Area,Transportation,72,12/14/2022,United States
+Headspace,Los Angeles,Healthcare,50,12/14/2022,United States
+ChowNow,Los Angeles,Food,40,12/14/2022,United States
+Landing,Birmingham,Real Estate,15,12/14/2022,United States
+Thumbtack,SF Bay Area,Consumer,160,12/13/2022,United States
+Edgio,Phoenix,Infrastructure,95,12/13/2022,United States
+Komodo Health,SF Bay Area,Healthcare,78,12/13/2022,United States
+Komodo Health,SF Bay Area,Healthcare,78,12/13/2022,United States
+Viant,Los Angeles,Marketing,46,12/13/2022,United States
+TaxBit,Salt Lake City,Crypto,15,12/13/2022,United States
+Pluralsight,Salt Lake City,Education,400,12/12/2022,United States
+Freshly,Phoenix,Food,329,12/12/2022,United States
+Balto,St. Louis,Sales,35,12/12/2022,United States
+Caribou,Washington D.C.,Finance,10,12/12/2022,United States
+Outschool,SF Bay Area,Education,43,12/10/2022,United States
+Xentral,Munich,Product,20,12/10/2022,Germany
+Autobooks,Detroit,Finance,13,12/10/2022,United States
+Convene,New York City,Real Estate,12,12/10/2022,United States
+PharmEasy,Mumbai,Healthcare,12,12/10/2022,India
+Playtika,Tel Aviv,Consumer,600,12/9/2022,Israel
+Share Now,Berlin,Transportation,150,12/9/2022,Germany
+Alice,Sao Paulo,Healthcare,113,12/9/2022,Brazil
+Primer,London,Finance,85,12/9/2022,United Kingdom
+OneFootball,Berlin,Marketing,62,12/9/2022,Germany
+C2FO,Kansas City,Finance,20,12/9/2022,United States
+Brodmann17,Tel Aviv,Other,2,12/9/2022,Israel
+Digital Surge,Brisbane,Crypto,3,12/9/2022,Australia
+N-able Technologies,Raleigh,Other,15,12/9/2022,United States
+ZenLedger,Seattle,Crypto,4,12/9/2022,United States
+Airtable,SF Bay Area,Product,254,12/8/2022,United States
+Swiggy,Bengaluru,Food,250,12/8/2022,India
+Glints,Singapore,HR,198,12/8/2022,Singapore
+Buser,Sao Paulo,Transportation,160,12/8/2022,Brazil
+BlackLine,Los Angeles,Finance,95,12/8/2022,United States
+Chrono24,Karlsruhe,Retail,80,12/8/2022,Germany
+Otonomo,Tel Aviv,Transportation,80,12/8/2022,Israel
+TechTarget,Boston,Marketing,60,12/8/2022,United States
+Inscripta,Boulder,Healthcare,43,12/8/2022,United States
+CyCognito,SF Bay Area,Security,30,12/8/2022,United States
+Armis,SF Bay Area,Security,25,12/8/2022,United States
+Bakkt,Atlanta,Crypto,15,12/8/2022,United States
+Blue Apron,New York City,Food,13,12/8/2022,United States
+FireHydrant,New York City,Infrastructure,14,12/8/2022,United States
+Lenovo,Raleigh,Hardware,2,12/8/2022,United States
+Nerdy,St. Louis,Education,12,12/8/2022,United States
+Vanta,SF Bay Area,Security,13,12/8/2022,United States
+Vedantu,Bengaluru,Education,385,12/7/2022,India
+Loft,Sao Paulo,Real Estate,312,12/7/2022,Brazil
+Plaid,SF Bay Area,Finance,260,12/7/2022,United States
+Motive,SF Bay Area,Transportation,237,12/7/2022,United States
+Recur Forever,Miami,Crypto,235,12/7/2022,United States
+Relativity,Chicago,Legal,150,12/7/2022,United States
+Voi,Stockholm,Transportation,130,12/7/2022,United States
+Integral Ad Science,New York City,Marketing,120,12/7/2022,United States
+Houzz,SF Bay Area,Consumer,95,12/7/2022,United States
+Grover,Berlin,Retail,40,12/7/2022,United States
+Lev,New York City,Real Estate,30,12/7/2022,United States
+Lithic,New York City,Finance,27,12/7/2022,United States
+CircleCI,SF Bay Area,Product,11,12/7/2022,United States
+Sayurbox,Jakarta,Food,15,12/7/2022,Indonesia
+Zywave,Milwaukee,Finance,5,12/7/2022,United States
+Doma,SF Bay Area,Finance,515,12/6/2022,United States
+Intel,SF Bay Area,Hardware,201,12/6/2022,United States
+BuzzFeed,New York City,Media,180,12/6/2022,United States
+Weedmaps,Los Angeles,Other,175,12/6/2022,United States
+Adobe,SF Bay Area,Marketing,100,12/6/2022,United States
+Chipper Cash,SF Bay Area,Finance,50,12/6/2022,United States
+Stash,New York City,Finance,32,12/6/2022,United States
+Perimeter 81,Tel Aviv,Security,20,12/6/2022,Israel
+Koinly,London,Crypto,16,12/6/2022,United Kingdom
+Bridgit,Waterloo,Construction,13,12/6/2022,Canada
+Filevine,Salt Lake City,Legal,2,12/6/2022,United States
+Moove,Lagos,Transportation,4,12/6/2022,Nigeria
+Nextiva,Phoenix,Other,3,12/6/2022,United States
+OneStudyTeam,Boston,Healthcare,15,12/6/2022,United States
+Zuora,SF Bay Area,Finance,5,12/6/2022,United States
+Swyftx,Brisbane,Crypto,90,12/5/2022,Australia
+Aqua Security,Boston,Security,65,12/5/2022,United States
+DataRails,Tel Aviv,Finance,30,12/5/2022,Israel
+Elemy,SF Bay Area,Healthcare,3,12/5/2022,United States
+Route,Lehi,Retail,2,12/5/2022,United States
+Thinkific,Vancouver,Education,12,12/5/2022,Canada
+OYO,Gurugram,Travel,600,12/3/2022,India
+HealthifyMe,Bengaluru,Fitness,150,12/3/2022,India
+Bybit,Singapore,Crypto,10,12/3/2022,Singapore
+Cognyte,Tel Aviv,Security,100,12/2/2022,Israel
+ShareChat,Bengaluru,Consumer,100,12/2/2022,India
+Polly,Burlington,Finance,47,12/2/2022,United States
+Homebound,SF Bay Area,Real Estate,12,12/2/2022,United States
+Lora DiCarlo,Bend,Consumer,7,12/2/2022,United States
+Carousell,Singapore,Retail,110,12/1/2022,Singapore
+Bizzabo,New York City,Marketing,100,12/1/2022,United States
+BloomTech,SF Bay Area,Education,88,12/1/2022,United States
+Netlify,SF Bay Area,Product,48,12/1/2022,United States
+Springbig,Miami,Sales,37,12/1/2022,United States
+Podium,Lehi,Support,12,12/1/2022,United States
+SQZ Biotech,Boston,Healthcare,2,12/1/2022,United States
+Strava,SF Bay Area,Fitness,10,12/1/2022,United States
+Synlogic,Boston,Healthcare,12,12/1/2022,United States
+Yapily,London,Finance,12,12/1/2022,United Kingdom
+DoorDash,SF Bay Area,Food,1250,11/30/2022,United States
+Kraken,SF Bay Area,Crypto,1100,11/30/2022,United States
+Happy Money,Los Angeles,Finance,158,11/30/2022,United States
+Ula,Jakarta,Retail,134,11/30/2022,Indonesia
+Wonder,New York City,Food,130,11/30/2022,United States
+StudySmarter,Berlin,Education,70,11/30/2022,Germany
+Grin,Sacramento,Marketing,60,11/30/2022,United States
+Ualá,Buenos Aires,Finance,53,11/30/2022,Argentina
+Teachmint,Bengaluru,Education,45,11/30/2022,India
+Etermax,Buenos Aires,Other,40,11/30/2022,Argentina
+Thread,London,Retail,30,11/30/2022,United Kingdom
+Elastic,SF Bay Area,Data,7,11/30/2022,United States
+Motional,Boston,Transportation,14,11/30/2022,United States
+Pinterest,SF Bay Area,Consumer,2,11/30/2022,United States
+Sana,Seattle,Healthcare,4,11/30/2022,United States
+Venafi,Salt Lake City,Security,4,11/30/2022,United States
+Bitso,Mexico City,Crypto,100,11/29/2022,Mexico
+Lyst,London,Retail,50,11/29/2022,United Kingdom
+CoinJar,Melbourne,Crypto,10,11/29/2022,Australia
+Bitfront,SF Bay Area,Crypto,3,11/29/2022,United States
+Codexis,SF Bay Area,Healthcare,13,11/29/2022,United States
+Firework,SF Bay Area,Retail,4,11/29/2022,United States
+Lazerpay,Lagos,Crypto,2,11/29/2022,Nigeria
+MessageBird,Amsterdam,Other,8,11/29/2022,Netherlands
+Plerk,Guadalajara,Finance,11,11/29/2022,Mexico
+Proton.ai,Boston,Sales,9,11/29/2022,United States
+Infarm,Berlin,Other,500,11/28/2022,Germany
+Wildlife Studios,Sao Paulo,Consumer,300,11/28/2022,Brazil
+Hirect,Bengaluru,Recruiting,200,11/28/2022,India
+ApplyBoard,Waterloo,Education,90,11/28/2022,Canada
+Ajaib,Jakarta,Finance,67,11/28/2022,Indonesia
+Candy Digital,New York City,Crypto,33,11/28/2022,United States
+ResearchGate,Berlin,Other,25,11/28/2022,Germany
+BlockFi,New York City,Crypto,7,11/28/2022,United States
+FutureLearn,London,Education,12,11/28/2022,United Kingdom
+Inspectify,Seattle,Real Estate,4,11/28/2022,United States
+Ledn,Toronto,Crypto,6,11/28/2022,Canada
+NCX,SF Bay Area,Energy,13,11/28/2022,United States
+Change Invest,Amsterdam,Finance,6,11/27/2022,Netherlands
+Zilch,London,Finance,8,11/26/2022,United Kingdom
+VerSe Innovation,Bengaluru,Media,150,11/25/2022,India
+Carwow,London,Transportation,70,11/25/2022,United Kingdom
+Vendease,Lagos,Food,27,11/25/2022,Nigeria
+Lemon,Buenos Aires,Crypto,100,11/24/2022,Argentina
+Quidax,Lagos,Crypto,20,11/24/2022,Nigeria
+Menulog,Sydney,Food,9,11/24/2022,Australia
+Utopia Music,Zug,Media,3,11/24/2022,Switzerland
+Assure,Salt Lake City,Finance,4,11/23/2022,United States
+GoodGood,Toronto,Retail,14,11/23/2022,Canada
+SWVL,Cairo,Transportation,14,11/23/2022,Egypt
+SIRCLO,Jakarta,Retail,160,11/22/2022,Indonesia
+Trax,Singapore,Retail,80,11/22/2022,Singapore
+Flash Coffee,Singapore,Food,10,11/22/2022,Singapore
+Natera,SF Bay Area,Healthcare,5,11/22/2022,United States
+Rapyd,Tel Aviv,Finance,2,11/22/2022,Israel
+Kitopi,Dubai,Food,93,11/21/2022,United States
+Devo,Boston,Security,8,11/21/2022,United States
+GloriFi,Dallas,Finance,10,11/21/2022,United States
+Jumia,Lagos,Retail,6,11/21/2022,Nigeria
+Zomato,Gurugram,Food,100,11/19/2022,India
+Carvana,Phoenix,Transportation,1500,11/18/2022,United States
+Nuro,SF Bay Area,Transportation,300,11/18/2022,United States
+Synthego,SF Bay Area,Healthcare,105,11/18/2022,United States
+Splyt,London,Transportation,57,11/18/2022,United Kingdom
+Capitolis,New York City,Finance,11,11/18/2022,United States
+Kavak,Sao Paulo,Transportation,8,11/18/2022,Brazil
+Metaplex,Chicago,Crypto,11,11/18/2022,United States
+Ruangguru,Jakarta,Education,4,11/18/2022,Indonesia
+StoryBlocks,Washington D.C.,Media,10,11/18/2022,United States
+Unchained Capital,Austin,Crypto,3,11/18/2022,United States
+Roku,SF Bay Area,Media,200,11/17/2022,United States
+Orchard,New York City,Real Estate,180,11/17/2022,United States
+Homepoint,Phoenix,Real Estate,113,11/17/2022,United States
+Juni,Gothenburg,Finance,72,11/17/2022,Sweden
+Chili Piper,New York City,Sales,58,11/17/2022,United States
+Capitolis,New York City,Finance,37,11/17/2022,United States
+TealBook,Toronto,Other,34,11/17/2022,Canada
+Koho,Toronto,Finance,15,11/17/2022,Canada
+&Open,Dublin,Marketing,9,11/17/2022,Ireland
+Kandji,San Diego,Other,5,11/17/2022,United States
+Morning Brew,New York City,Media,15,11/17/2022,United States
+Symend,Calgary,Other,12,11/17/2022,Canada
+Amazon,Seattle,Retail,10000,11/16/2022,United States
+Cisco,SF Bay Area,Infrastructure,4100,11/16/2022,United States
+Twiga,Nairobi,Food,211,11/16/2022,Kenya
+Wayflyer,Dublin,Marketing,200,11/16/2022,Ireland
+SimilarWeb,New York City,Other,120,11/16/2022,United States
+Salsify,Boston,Retail,90,11/16/2022,United States
+Lokalise,Dover,Other,76,11/16/2022,United States
+Yotpo,New York City,Marketing,70,11/16/2022,United States
+Pear Therapeutics,Boston,Healthcare,59,11/16/2022,United States
+D2L,Waterloo,Education,4,11/16/2022,Canada
+Dance,Berlin,Transportation,15,11/16/2022,Germany
+Homeward,Austin,Real Estate,11,11/16/2022,United States
+Hopin,London,Other,9,11/16/2022,United Kingdom
+Infogrid,London,Other,9,11/16/2022,United Kingdom
+Kite,SF Bay Area,Product,15,11/16/2022,United States
+UiPath,New York City,Data,241,11/15/2022,United States
+Asana,SF Bay Area,Other,180,11/15/2022,United States
+OwnBackup,New York City,Security,170,11/15/2022,United States
+Deliveroo Australia,Melbourne,Food,120,11/15/2022,Australia
+Productboard,SF Bay Area,Product,100,11/15/2022,United States
+Properly,Toronto,Real Estate,71,11/15/2022,Canada
+Protocol,SF Bay Area,Media,60,11/15/2022,United States
+Jimdo,Hamburg,Other,50,11/15/2022,Germany
+The Zebra,Austin,Finance,50,11/15/2022,United States
+Viber,Luxembourg,Consumer,45,11/15/2022,Luxembourg
+CaptivateIQ,SF Bay Area,Sales,31,11/15/2022,United States
+Apollo Insurance,Vancouver,Finance,5,11/15/2022,Canada
+Nirvana Money,Miami,Finance,14,11/15/2022,United States
+Oatly,Malmö,Food,10,11/15/2022,Sweden
+OfferUp,Seattle,Retail,15,11/15/2022,United States
+Outside,Boulder,Media,9,11/15/2022,United States
+Rubicon Technologies,Lexington,Other,4,11/15/2022,United States
+Tencent,Shenzen,Consumer,5,11/15/2022,China
+Typeform,Barcelona,Marketing,7,11/15/2022,Spain
+Whispir,Melbourne,Other,4,11/15/2022,Australia
+Illumina,San Diego,Healthcare,500,11/14/2022,United States
+Sema4,Stamford,Healthcare,500,11/14/2022,United States
+iFit,Logan,Fitness,300,11/14/2022,United States
+Ribbon,New York City,Real Estate,170,11/14/2022,United States
+Pipedrive,Tallin,Sales,143,11/14/2022,Estonia
+Intercom,SF Bay Area,Support,124,11/14/2022,United States
+Science 37,Los Angeles,Healthcare,90,11/14/2022,United States
+Science 37 ,Los Angeles,Healthcare,90,11/14/2022,United States
+Pear Therapeutics,Boston,Healthcare,59,11/14/2022,United States
+Cardlytics,Atlanta,Marketing,51,11/14/2022,United States
+Cloudinary,SF Bay Area,Media,40,11/14/2022,United States
+Nestcoin,Lagos,Crypto,30,11/14/2022,Nigeria
+Shopee,Jakarta,Food,5,11/14/2022,Indonesia
+Tricida,SF Bay Area,Healthcare,3,11/14/2022,United States
+Veev,SF Bay Area,Real Estate,100,11/11/2022,United States
+Forto,Berlin,Logistics,60,11/11/2022,United States
+Chipax,Santiago,Finance,15,11/11/2022,Chile
+Juniper,Atlanta,Marketing,6,11/11/2022,United States
+Offerpad,Phoenix,Real Estate,2,11/11/2022,United States
+GoTo Group,Jakarta,Transportation,1300,11/10/2022,Indonesia
+Juul,SF Bay Area,Consumer,400,11/10/2022,United States
+Blend,SF Bay Area,Finance,100,11/10/2022,United States
+InfluxData,SF Bay Area,Data,65,11/10/2022,United States
+Coinbase,SF Bay Area,Crypto,60,11/10/2022,United States
+SoundHound,SF Bay Area,Other,45,11/10/2022,United States
+Wistia,Boston,Marketing,40,11/10/2022,United States
+Ocavu,Lehi,Crypto,20,11/10/2022,United States
+Avast,Phoenix,Security,2,11/10/2022,United States
+Reforge,SF Bay Area,Education,9,11/10/2022,United States
+SendCloud,Eindhoven,Logistics,3,11/10/2022,United States
+Voly,Sydney,Food,14,11/10/2022,Australia
+Wavely,SF Bay Area,HR,10,11/10/2022,United States
+ZenBusiness,Austin,Other,15,11/10/2022,United States
+Meta,SF Bay Area,Consumer,11000,11/9/2022,United States
+Redfin,Seattle,Real Estate,862,11/9/2022,United States
+Flyhomes,Seattle,Real Estate,300,11/9/2022,United States
+AvantStay,Los Angeles,Travel,144,11/9/2022,United States
+Root Insurance,Columbus,Finance,137,11/9/2022,United States
+Liftoff,SF Bay Area,Marketing,130,11/9/2022,United States
+Cameo,Chicago,Consumer,80,11/9/2022,United States
+Plum,Bengaluru,Healthcare,36,11/9/2022,India
+Kabam,SF Bay Area,Consumer,35,11/9/2022,United States
+HighRadius,Bengaluru,Finance,25,11/9/2022,India
+Namogoo,Tel Aviv,Marketing,25,11/9/2022,United States
+Amobee,SF Bay Area,Marketing,8,11/9/2022,United States
+CloudFactory,Nairobi,Data,8,11/9/2022,Kenya
+Coursera,SF Bay Area,Education,11,11/9/2022,United States
+Faze Medicines,Boston,Healthcare,6,11/9/2022,United States
+RingCentral,SF Bay Area,Other,5,11/9/2022,United States
+Spotify,Stockholm,Media,8,11/9/2022,Sweden
+EverBridge,Boston,Other,200,11/8/2022,United States
+Repertoire Immune Medicines,Boston,Healthcare,65,11/8/2022,United States
+Astra,SF Bay Area,Aerospace,12,11/8/2022,United States
+Beat,Athens,Transportation,14,11/8/2022,Greece
+NanoString,Seattle,Healthcare,13,11/8/2022,United States
+SADA,Los Angeles,Other,14,11/8/2022,United States
+Salesforce,SF Bay Area,Sales,1000,11/7/2022,United States
+Unacademy,Bengaluru,Education,350,11/7/2022,India
+Zendesk,SF Bay Area,Support,350,11/7/2022,United States
+Dock,Sao Paulo,Finance,190,11/7/2022,Brazil
+Code42,Minneapolis,Security,8,11/7/2022,United States
+Domino Data Lab,SF Bay Area,Data,6,11/7/2022,United States
+Varonis,New York City,Security,110,11/6/2022,United States
+Brainly,Krakow,Education,25,11/6/2022,Poland
+Practically,Hyderabad,Education,3,11/6/2022,India
+Twitter,SF Bay Area,Consumer,3700,11/4/2022,United States
+Udaan,Bengaluru,Retail,350,11/4/2022,India
+Planetly,Berlin,Other,200,11/4/2022,Germany
+KoinWorks,Jakarta,Finance,70,11/4/2022,Indonesia
+Exodus,Nebraska City,Crypto,59,11/4/2022,United States
+Benitago Group,New York City,Retail,3,11/4/2022,United States
+Mythical Games,Los Angeles,Crypto,15,11/4/2022,United States
+Stripe,SF Bay Area,Finance,1000,11/3/2022,United States
+Lyft,SF Bay Area,Transportation,700,11/3/2022,United States
+LendingTree,Charlotte,Finance,200,11/3/2022,United States
+Pleo,Copenhagen,Finance,150,11/3/2022,United States
+Delivery Hero,Berlin,Food,100,11/3/2022,Germany
+Shippo,SF Bay Area,Logistics,60,11/3/2022,United States
+Affirm,SF Bay Area,Finance,15,11/3/2022,United States
+CloudKitchens,Los Angeles,Real Estate,15,11/3/2022,United States
+LiveRamp,SF Bay Area,Marketing,14,11/3/2022,United States
+Provi,Chicago,Food,13,11/3/2022,United States
+Rubius,Boston,Healthcare,14,11/3/2022,United States
+Snapdocs,SF Bay Area,Real Estate,12,11/3/2022,United States
+Studio,SF Bay Area,Education,9,11/3/2022,United States
+Opendoor,SF Bay Area,Real Estate,550,11/2/2022,United States
+Chime,SF Bay Area,Finance,156,11/2/2022,United States
+Chargebee,SF Bay Area,Finance,142,11/2/2022,United States
+Dapper Labs,Vancouver,Crypto,134,11/2/2022,United States
+Checkmarx,Tel Aviv,Security,100,11/2/2022,Israel
+Smava,Berlin,Finance,100,11/2/2022,Germany
+Iron Ox,SF Bay Area,Food,50,11/2/2022,United States
+Digital Currency Gruop,Stamford,Crypto,10,11/2/2022,United States
+BitMEX,Non-U.S.,Crypto,8,11/2/2022,Seychelles
+Signicat,Trondheim,Security,3,11/2/2022,Norway
+Argo AI,SF Bay Area,Transportation,259,11/1/2022,United States
+Booking.com,Grand Rapids,Travel,226,11/1/2022,United States
+Oracle,SF Bay Area,Other,200,11/1/2022,United States
+Upstart,SF Bay Area,Finance,140,11/1/2022,United States
+Gem,SF Bay Area,Recruiting,100,11/1/2022,United States
+Oda,Oslo,Food,70,11/1/2022,Sweden
+Oda,Oslo,Food,70,11/1/2022,Norway
+Oda,Oslo,Food,70,11/1/2022,Norway
+Hootsuite,Vancouver,Marketing,50,11/1/2022,Canada
+Drop,Toronto,Marketing,24,11/1/2022,Canada
+Tapps Games,Sao Paulo,Consumer,10,11/1/2022,Brazil
+Brightline,SF Bay Area,Healthcare,7,11/1/2022,United States
+Help Scout,Boston,Support,14,11/1/2022,United States
+Kry,Stockholm,Healthcare,300,10/31/2022,Sweden
+Notarize,Boston,Legal,60,10/31/2022,United States
+EquityZen,New York City,Finance,30,10/31/2022,United States
+Equitybee,SF Bay Area,Finance,25,10/31/2022,United States
+Dukaan,Bengaluru,Retail,23,10/31/2022,India
+Amazon,Seattle,Retail,150,10/28/2022,United States
+Fifth Season,Pittsburgh,Food,100,10/28/2022,United States
+Advata,Seattle,Healthcare,32,10/28/2022,United States
+Springlane,Düsseldorf,Food,15,10/28/2022,Germany
+RenoRun,Montreal,Construction,210,10/27/2022,Canada
+Recharge,Los Angeles,Finance,84,10/27/2022,United States
+Lattice,SF Bay Area,HR,13,10/27/2022,United States
+GoNuts,Mumbai,Media,9,10/27/2022,India
+Spreetail,Austin,Retail,2,10/27/2022,United States
+MindBody,San Luis Obispo,Fitness,400,10/26/2022,United States
+Zillow,Seattle,Real Estate,300,10/26/2022,United States
+Cybereason,Boston,Security,200,10/26/2022,United States
+Argo AI,Pittsburgh,Transportation,173,10/26/2022,United States
+GoFundMe,SF Bay Area,Finance,94,10/26/2022,United States
+Carbon,SF Bay Area,Hardware,15,10/26/2022,United States
+Fundbox,SF Bay Area,Finance,150,10/25/2022,United States
+Embroker,SF Bay Area,Finance,30,10/25/2022,United States
+Vee,Tel Aviv,HR,17,10/25/2022,Israel
+Callisto Media,SF Bay Area,Media,5,10/25/2022,United States
+Convoy,Seattle,Logistics,8,10/25/2022,United States
+Philips,Amsterdam,Healthcare,4000,10/24/2022,Netherlands
+Cerebral,SF Bay Area,Healthcare,400,10/24/2022,United States
+Snyk,Boston,Security,198,10/24/2022,United States
+McMakler,Berlin,Real Estate,100,10/24/2022,Germany
+Unico,Sao Paulo,Other,50,10/24/2022,Brazil
+OrCam,Jerusalem,Healthcare,62,10/23/2022,Israel
+Antidote Health,Tel Aviv,Healthcare,23,10/23/2022,Israel
+Khoros,Austin,Sales,120,10/21/2022,United States
+F5,Seattle,Security,100,10/21/2022,United States
+Elinvar,Berlin,Finance,43,10/21/2022,Germany
+Synapsica,New Delhi,Healthcare,30,10/21/2022,India
+Volta,SF Bay Area,Transportation,12,10/21/2022,United States
+Hotmart,Belo Horizonte,Marketing,227,10/20/2022,Brazil
+Zeus Living,SF Bay Area,Real Estate,64,10/20/2022,United States
+Loom,SF Bay Area,Product,23,10/20/2022,United States
+Sales Boomerang,Baltimore,Sales,20,10/20/2022,United States
+Arrival,London,Transportation,8,10/20/2022,United Kingdom
+Roofstock,SF Bay Area,Real Estate,7,10/20/2022,United States
+Starry,Boston,Other,5,10/20/2022,United States
+Gopuff,Philadelphia,Food,250,10/19/2022,United States
+AtoB,SF Bay Area,Finance,32,10/19/2022,United States
+InfoSum,London,Security,20,10/19/2022,United Kingdom
+Clever Real Estate,St. Louis,Real Estate,9,10/19/2022,United States
+Collibra,Brussels,Data,7,10/19/2022,Belgium
+Side,SF Bay Area,Real Estate,14,10/19/2022,United States
+Faire,SF Bay Area,Retail,84,10/18/2022,United States
+Leafly,Seattle,Retail,56,10/18/2022,United States
+Ada Health,Berlin,Healthcare,50,10/17/2022,Germany
+Tiendanube,Buenos Aires,Marketing,50,10/17/2022,Argentina
+Microsoft,Seattle,Other,15,10/17/2022,United States
+Nuri,Berlin,Crypto,2,10/17/2022,Germany
+Flipboard,SF Bay Area,Media,24,10/16/2022,United States
+Clear Capital,Reno,Real Estate,378,10/14/2022,United States
+Beyond Meat,Los Angeles,Food,200,10/14/2022,United States
+Flux Systems,London,Finance,7,10/14/2022,United Kingdom
+Qin1,Noida,Education,6,10/14/2022,India
+Salesforce,SF Bay Area,Sales,90,10/13/2022,United States
+Playdots,New York City,Consumer,65,10/13/2022,United States
+ExtraHop,Seattle,Security,13,10/13/2022,United States
+Byju's,Bengaluru,Education,2500,10/12/2022,India
+6sense,SF Bay Area,Sales,150,10/12/2022,United States
+FrontRow,Bengaluru,Education,130,10/12/2022,India
+Noom,New York City,Healthcare,500,10/11/2022,United States
+MX,Lehi,Finance,200,10/11/2022,United States
+Brex,SF Bay Area,Finance,136,10/11/2022,United States
+Pacaso,SF Bay Area,Real Estate,100,10/11/2022,United States
+Sketch,The Hague,Other,80,10/11/2022,Netherlands
+Udacity,SF Bay Area,Education,55,10/11/2022,United States
+Linkfire,Copenhagen,Marketing,35,10/11/2022,Denmark
+Emitwise,London,Energy,8,10/11/2022,United Kingdom
+GSR,Hong Kong,Crypto,14,10/11/2022,Hong Kong
+VanHack,Vancouver,HR,6,10/11/2022,United States
+HelloFresh,SF Bay Area,Food,611,10/10/2022,United States
+Momentive,SF Bay Area,Marketing,180,10/10/2022,United States
+Pavilion Data,SF Bay Area,Infrastructure,96,10/10/2022,United States
+Redesign Health,New York City,Healthcare,67,10/10/2022,United States
+Nyriad,Austin,Infrastructure,15,10/10/2022,United States
+BioMarin,SF Bay Area,Healthcare,120,10/7/2022,United States
+Rev.com,Austin,Data,85,10/7/2022,United States
+Crypto.com,Singapore,Crypto,2000,10/6/2022,Singapore
+Peloton,New York City,Fitness,500,10/6/2022,United States
+Landing,Birmingham,Real Estate,110,10/6/2022,United States
+Turnitin,SF Bay Area,Education,51,10/6/2022,United States
+Impossible Foods,SF Bay Area,Food,50,10/6/2022,United States
+Atome,Singapore,Finance,7,10/6/2022,Singapore
+First AML,Auckland,Finance,14,10/6/2022,New Zealand
+Foresight Insurance,SF Bay Area,Finance,15,10/6/2022,United States
+Spotify,Stockholm,Media,3,10/6/2022,Sweden
+Built In,Chicago,Recruiting,50,10/5/2022,United States
+TwinStrand,Seattle,Healthcare,2,10/5/2022,United States
+8x8,SF Bay Area,Support,200,10/4/2022,United States
+Homie,Salt Lake City,Real Estate,40,10/4/2022,United States
+Fivetran,SF Bay Area,Data,13,10/4/2022,United States
+Xendit,Jakarta,Finance,11,10/4/2022,Indonesia
+Zoomo,Sydney,Transportation,2,10/4/2022,Australia
+ActiveCampaign,Chicago,Marketing,12,10/3/2022,United States
+Tempo,SF Bay Area,Fitness,7,10/3/2022,United States
+WazirX,Mumbai,Crypto,60,10/2/2022,India
+Spin,SF Bay Area,Transportation,78,9/30/2022,United States
+Carsome,Kuala Lumpur,Transportation,15,9/30/2022,Malaysia
+Pastel,SF Bay Area,Food,3,9/30/2022,United States
+Truepill,SF Bay Area,Healthcare,15,9/30/2022,United States
+Westwing,Munich,Retail,125,9/29/2022,Germany
+Mux,SF Bay Area,Infrastructure,40,9/29/2022,United States
+Solarisbank,Berlin,Finance,10,9/29/2022,Germany
+Zenjob,Berlin,HR,12,9/29/2022,Germany
+DocuSign,SF Bay Area,Sales,671,9/28/2022,United States
+Front,SF Bay Area,Support,13,9/28/2022,United States
+Volta,SF Bay Area,Transportation,14,9/28/2022,United States
+Divvy Homes,SF Bay Area,Real Estate,40,9/27/2022,United States
+Graphcore,Bristol,Data,10,9/27/2022,United Kingdom
+Instacart,SF Bay Area,Food,5,9/24/2022,United States
+Konfio,Mexico City,Finance,180,9/23/2022,United States
+Moss,Berlin,Finance,70,9/23/2022,Germany
+Foxtrot,Chicago,Food,26,9/23/2022,United States
+Truiloo,Vancouver,Security,24,9/23/2022,Canada
+Pesto,SF Bay Area,Other,4,9/23/2022,United States
+NYDIG,New York City,Crypto,110,9/22/2022,United States
+Klarna,Stockholm,Finance,100,9/22/2022,Sweden
+Made.com,London,Retail,13,9/22/2022,United Kingdom
+Kitty Hawk,SF Bay Area,Aerospace,100,9/21/2022,United States
+Candidate Labs,SF Bay Area,HR,14,9/21/2022,United States
+Compass,New York City,Real Estate,271,9/20/2022,United States
+Curative,Los Angeles,Healthcare,109,9/20/2022,United States
+Ada,Toronto,Support,78,9/20/2022,Canada
+99,Sao Paulo,Transportation,75,9/20/2022,Brazil
+Ouster,SF Bay Area,Transportation,8,9/20/2022,United States
+Zappos,Las Vegas,Retail,13,9/20/2022,United States
+Ola,Bengaluru,Transportation,200,9/19/2022,India
+Vesalius Therapeutics,Boston,Healthcare,29,9/19/2022,United States
+VideoAmp,Los Angeles,Marketing,4,9/19/2022,United States
+Shopee,Jakarta,Food,12,9/18/2022,Indonesia
+Clear,Bengaluru,Finance,190,9/16/2022,India
+TrueLayer,London,Finance,40,9/16/2022,United States
+LivePerson,New York City,Support,193,9/15/2022,United States
+Acast,Stockholm,Media,70,9/15/2022,Sweden
+WorkRamp,SF Bay Area,HR,35,9/15/2022,United States
+DayTwo,SF Bay Area,Healthcare,4,9/15/2022,United States
+NextRoll,SF Bay Area,Marketing,15,9/15/2022,United States
+Twilio,SF Bay Area,Other,800,9/14/2022,United States
+Pitch,Berlin,Marketing,59,9/14/2022,Germany
+Infarm,Berlin,Other,50,9/14/2022,Germany
+Netflix,SF Bay Area,Media,30,9/14/2022,United States
+Bitrise,Budapest,Infrastructure,12,9/14/2022,Hungary
+Rubius,Boston,Healthcare,160,9/13/2022,United States
+Checkout.com,London,Finance,100,9/13/2022,United Kingdom
+Taboola,New York City,Marketing,100,9/13/2022,United States
+Patreon,SF Bay Area,Media,80,9/13/2022,United States
+FullStory,Atlanta,Marketing,6,9/13/2022,United States
+Propzy,Ho Chi Minh City,Real Estate,4,9/13/2022,Vietnam
+Quicko,Sao Paulo,Transportation,60,9/12/2022,Brazil
+Mode Analytics,SF Bay Area,Data,25,9/12/2022,United States
+Compete,Tel Aviv,HR,11,9/12/2022,Israel
+Karbon,SF Bay Area,Other,7,9/12/2022,United States
+Rent the Runway,New York City,Retail,5,9/12/2022,United States
+Sama,SF Bay Area,Data,5,9/12/2022,United States
+SkipTheDishes,Winnipeg,Food,350,9/9/2022,Canada
+Brighte,Sydney,Energy,58,9/9/2022,Australia
+Patreon,SF Bay Area,Media,5,9/9/2022,United States
+Amber Group,Hong Kong,Crypto,3,9/9/2022,Hong Kong
+Capiter,Cairo,Finance,2,9/9/2022,Egypt
+CommonBond,New York City,Finance,13,9/9/2022,United States
+DreamBox Learning,Seattle,Education,4,9/9/2022,United States
+Flowhub,Denver,Retail,12,9/9/2022,United States
+Lido Learning,Mumbai,Education,7,9/9/2022,India
+GoStudent,Vienna,Education,200,9/8/2022,Austria
+Pomelo Fashion,Bangkok,Retail,55,9/8/2022,Thailand
+Genome Medical,SF Bay Area,Healthcare,23,9/8/2022,United States
+BigBear.ai,Baltimore,Data,6,9/8/2022,United States
+Realtor.com,SF Bay Area,Real Estate,9,9/8/2022,United States
+Simple Feast,Copenhagen,Food,150,9/7/2022,Denmark
+Foodpanda,Singapore,Food,60,9/7/2022,Romania
+Uber,Vilnius,Transportation,60,9/7/2022,Lithuania
+Rupeek,Bengaluru,Finance,50,9/7/2022,India
+Intercom,SF Bay Area,Support,49,9/7/2022,United States
+Pendo,Raleigh,Product,45,9/7/2022,United States
+Demandbase,SF Bay Area,Sales,27,9/7/2022,United States
+Firebolt,Tel Aviv,Data,14,9/7/2022,Israel
+Medly,New York City,Healthcare,4,9/7/2022,United States
+Xsight Labs,Tel Aviv,Other,2,9/7/2022,Israel
+Brave Care,Portland,Healthcare,40,9/6/2022,United States
+Lawgeex,Tel Aviv,Legal,30,9/6/2022,Israel
+Juniper Square,SF Bay Area,Real Estate,9,9/6/2022,United States
+Medium,SF Bay Area,Media,10,9/6/2022,United States
+Kuda,Lagos,Finance,23,9/2/2022,Nigeria
+Sea,Singapore,Consumer,5,9/2/2022,Singapore
+2TM,Sao Paulo,Crypto,100,9/1/2022,Brazil
+Innovaccer,SF Bay Area,Healthcare,90,9/1/2022,United States
+Shopify,Ottawa,Retail,70,9/1/2022,Canada
+Urban Sports Club,Berlin,Fitness,55,9/1/2022,Germany
+Hedvig,Stockholm,Finance,12,9/1/2022,Sweden
+Snap,Los Angeles,Consumer,1280,8/31/2022,United States
+GoodRx,Los Angeles,Healthcare,140,8/31/2022,United States
+Smava,Berlin,Finance,100,8/31/2022,Germany
+Hippo Insurance,SF Bay Area,Finance,70,8/31/2022,United States
+Clari,SF Bay Area,Sales,45,8/31/2022,United States
+Koo,Bengaluru,Consumer,40,8/31/2022,India
+TCR2,Boston,Healthcare,30,8/31/2022,United States
+Apartment List,SF Bay Area,Real Estate,29,8/31/2022,United States
+Artnight,Berlin,Retail,26,8/31/2022,Germany
+Snagajob,Richmond,HR,4,8/31/2022,United States
+The Wing,New York City,Real Estate,9,8/31/2022,United States
+Viamo,Accra,Other,13,8/31/2022,Ghana
+Electric,New York City,Other,81,8/30/2022,United States
+Immersive Labs,Bristol,Security,38,8/30/2022,United Kingdom
+Nate,New York City,Retail,30,8/30/2022,United States
+Meesho,Bengaluru,Retail,300,8/29/2022,India
+54gene,Washington D.C.,Healthcare,95,8/29/2022,United States
+Fungible,SF Bay Area,Crypto,3,8/29/2022,United States
+Skillz,SF Bay Area,Consumer,3,8/29/2022,United States
+Otonomo,Tel Aviv,Transportation,2,8/28/2022,Israel
+Zymergen,SF Bay Area,Other,80,8/26/2022,United States
+Okta,SF Bay Area,Other,24,8/26/2022,United States
+Argyle,New York City,Finance,20,8/26/2022,United States
+Better.com,New York City,Real Estate,4,8/26/2022,United States
+FreshDirect,Philadelphia,Food,40,8/25/2022,United States
+Loja Integrada,Sao Paulo,Retail,25,8/25/2022,Brazil
+Impact.com,Los Angeles,Marketing,9,8/25/2022,United States
+ShipBob,Chicago,Logistics,11,8/25/2022,United States
+Reali,SF Bay Area,Real Estate,140,8/24/2022,United States
+Loop,Washington D.C.,Finance,15,8/24/2022,United States
+Pix,SF Bay Area,Food,13,8/24/2022,United States
+Tier Mobility,Berlin,Transportation,180,8/23/2022,Germany
+Packable,New York City,Retail,138,8/23/2022,United States
+Q4,Toronto,Other,50,8/23/2022,Canada
+Skedulo,SF Bay Area,HR,31,8/23/2022,United States
+Plato,SF Bay Area,HR,29,8/23/2022,United States
+DataRobot,Boston,Data,5,8/23/2022,United States
+Kogan,Melbourne,Retail,5,8/23/2022,Australia
+Skillshare,New York City,Education,14,8/23/2022,United States
+Mr. Yum,Melbourne,Food,2,8/22/2022,United States
+ShopX,Bengaluru,Retail,12,8/22/2022,India
+NSO,Tel Aviv,Security,100,8/21/2022,Israel
+Tufin,Boston,Security,55,8/21/2022,United States
+Amperity,Seattle,Marketing,13,8/20/2022,United States
+Wayfair,Boston,Retail,870,8/19/2022,United States
+Stripe,SF Bay Area,Finance,50,8/19/2022,United States
+Hodlnaut,Singapore,Crypto,40,8/19/2022,Singapore
+New Relic,SF Bay Area,Infrastructure,110,8/18/2022,United States
+Wheel,Austin,Healthcare,35,8/18/2022,United States
+Petal,New York City,Finance,8,8/18/2022,United States
+Thirty Madison,New York City,Healthcare,9,8/18/2022,United States
+Vendasta,Saskatoon,Marketing,9,8/18/2022,Canada
+Malwarebytes,SF Bay Area,Security,125,8/17/2022,United States
+Fluke,Sao Paulo,Other,83,8/17/2022,Brazil
+Swyftx,Brisbane,Crypto,74,8/17/2022,Australia
+Tempo Automation,SF Bay Area,Other,54,8/17/2022,United States
+Genesis,New York City,Crypto,52,8/17/2022,United States
+Warren,Porto Alegre,Finance,50,8/17/2022,Brazil
+AlayaCare,Montreal,Healthcare,80,8/16/2022,Canada
+Pliops,Tel Aviv,Data,12,8/16/2022,Israel
+Woven,Indianapolis,HR,5,8/16/2022,United States
+Crypto.com,Singapore,Crypto,15,8/16/2022,Singapore
+Edmodo,SF Bay Area,Education,7,8/16/2022,United States
+Snapdocs,SF Bay Area,Real Estate,15,8/16/2022,United States
+Updater,New York City,Other,5,8/16/2022,United States
+Sema4,Stamford,Healthcare,250,8/15/2022,United States
+Blend,SF Bay Area,Finance,220,8/15/2022,United States
+ContraFect,New York City,Healthcare,16,8/15/2022,United States
+ThredUp,Chicago,Retail,4,8/15/2022,United States
+Anywell,Tel Aviv,Real Estate,11,8/14/2022,Israel
+Almanac,SF Bay Area,Other,10,8/13/2022,United States
+Peloton,New York City,Fitness,784,8/12/2022,United States
+Core Scientific,Austin,Crypto,10,8/12/2022,United States
+Orbit,SF Bay Area,Other,6,8/12/2022,United States
+Truepill,SF Bay Area,Healthcare,175,8/11/2022,United States
+Calm,SF Bay Area,Healthcare,90,8/11/2022,United States
+FourKites,Chicago,Logistics,60,8/11/2022,United States
+Marketforce,Nairobi,Retail,54,8/11/2022,Kenya
+Betterfly,Santiago,Healthcare,30,8/11/2022,Chile
+Expert360,Sydney,Recruiting,7,8/11/2022,Australia
+Guidewire,SF Bay Area,Finance,7,8/11/2022,United States
+Trybe,Sao Paulo,Education,47,8/10/2022,Brazil
+Permutive,London,Marketing,30,8/10/2022,United Kingdom
+Homeward,Austin,Real Estate,15,8/10/2022,United States
+Pollen,London,Marketing,12,8/10/2022,United Kingdom
+Vedanta Biosciences,Boston,Healthcare,5,8/10/2022,United States
+GoHealth,Chicago,Healthcare,800,8/9/2022,United States
+Hootsuite,Vancouver,Marketing,400,8/9/2022,Canada
+Nutanix,SF Bay Area,Infrastructure,270,8/9/2022,United States
+Quanterix,Boston,Healthcare,130,8/9/2022,United States
+Wix,Tel Aviv,Marketing,100,8/9/2022,Israel
+MadeiraMadeira,Curitiba,Retail,60,8/9/2022,Brazil
+Melio,New York City,Finance,60,8/9/2022,United States
+Linktree,Melbourne,Consumer,50,8/9/2022,Australia
+Shogun,SF Bay Area,Retail,48,8/9/2022,United States
+Absci,Vancouver,Healthcare,40,8/9/2022,United States
+Dooly,Vancouver,Sales,12,8/9/2022,Canada
+Berkeley Lights,SF Bay Area,Healthcare,6,8/9/2022,United States
+DailyPay,New York City,Finance,8,8/9/2022,United States
+Haus,SF Bay Area,Food,12,8/9/2022,United States
+Kaltura,New York City,Media,13,8/9/2022,United States
+Shift,SF Bay Area,Transportation,11,8/9/2022,United States
+Sweetgreen,Los Angeles,Food,4,8/9/2022,United States
+Groupon,Chicago,Retail,500,8/8/2022,United States
+Loggi,Sao Paulo,Logistics,500,8/8/2022,Brazil
+Vroom,New York City,Transportation,337,8/8/2022,United States
+Warby Parker,New York City,Consumer,63,8/8/2022,United States
+Labelbox,SF Bay Area,Data,36,8/8/2022,United States
+Perion,Tel Aviv,Marketing,20,8/8/2022,Israel
+Daily Harvest,New York City,Food,6,8/8/2022,United States
+DataRobot,Boston,Data,7,8/8/2022,United States
+iRobot,Boston,Consumer,140,8/5/2022,United States
+Mejuri,Toronto,Retail,50,8/5/2022,Canada
+Uberflip,Toronto,Marketing,31,8/5/2022,Canada
+Slync,Dallas,Logistics,13,8/5/2022,United States
+Talkdesk,SF Bay Area,Support,5,8/5/2022,United States
+Doma,SF Bay Area,Finance,250,8/4/2022,United States
+Article,Vancouver,Retail,216,8/4/2022,Canada
+Jam City,Los Angeles,Consumer,200,8/4/2022,United States
+10X Genomics,SF Bay Area,Healthcare,100,8/4/2022,United States
+LEAD,Mumbai,Education,80,8/4/2022,India
+Zendesk,SF Bay Area,Support,80,8/4/2022,United States
+On Deck,SF Bay Area,Education,73,8/4/2022,United States
+RenoRun,Montreal,Construction,70,8/4/2022,Canada
+RingCentral,SF Bay Area,Support,50,8/4/2022,United States
+Medly,New York City,Healthcare,12,8/4/2022,United States
+Nomad,Sao Paulo,Finance,12,8/4/2022,Brazil
+StubHub,SF Bay Area,Consumer,8,8/4/2022,United States
+Weedmaps,Los Angeles,Other,11,8/4/2022,United States
+Zenius,Jakarta,Education,8,8/4/2022,Indonesia
+Healthcare.com,Miami,Healthcare,149,8/3/2022,United States
+Unbounce,Vancouver,Marketing,47,8/3/2022,Canada
+Beyond Meat,Los Angeles,Food,40,8/3/2022,United States
+The Org,New Delhi,HR,13,8/3/2022,United States
+CarDekho,Gurugram,Transportation,6,8/3/2022,India
+Puppet,Portland,Infrastructure,7,8/3/2022,United States
+SoundCloud,Berlin,Consumer,11,8/3/2022,Germany
+Talkwalker,Luxembourg,Marketing,14,8/3/2022,Luxembourg
+Robinhood,SF Bay Area,Finance,713,8/2/2022,United States
+Latch,New York City,Security,115,8/2/2022,United States
+Vedantu,Bengaluru,Education,100,8/2/2022,India
+Seegrid,Pittsburgh,Logistics,90,8/2/2022,United States
+Nylas,SF Bay Area,Product,80,8/2/2022,United States
+Outreach,Seattle,Sales,60,8/2/2022,United States
+Sendy,Nairobi,Logistics,54,8/2/2022,Kenya
+The Predictive Index,Boston,HR,40,8/2/2022,United States
+Sendy,Nairobi,Logistics,30,8/2/2022,Kenya
+Stedi,Boulder,Product,23,8/2/2022,United States
+Glossier,New York City,Retail,19,8/2/2022,United States
+Butterfly Network,New Haven,Healthcare,11,8/2/2022,United States
+FuboTV,New York City,Media,15,8/2/2022,United States
+Hash,Sao Paulo,Finance,58,8/1/2022,Brazil
+Classkick,Chicago,Education,15,8/1/2022,United States
+DeHaat,Gurugram,Food,11,8/1/2022,India
+OnlyFans,London,Media,15,8/1/2022,United Kingdom
+Oracle,SF Bay Area,Other,5,8/1/2022,United States
+Perceptive Automata,Boston,Transportation,5,8/1/2022,United States
+Whereby,Oslo,Other,6,8/1/2022,Norway
+Metigy,Sydney,Marketing,75,7/31/2022,Australia
+Vee,Tel Aviv,HR,16,7/31/2022,Israel
+Gatherly,Atlanta,Marketing,3,7/31/2022,United States
+Ola,Bengaluru,Transportation,1000,7/29/2022,India
+Clearco,Toronto,Finance,125,7/29/2022,Canada
+Imperfect Foods,SF Bay Area,Food,50,7/29/2022,United States
+Shelf Engine,Seattle,Food,43,7/29/2022,United States
+Quantcast,SF Bay Area,Marketing,40,7/29/2022,United States
+Sherpa,Toronto,Travel,22,7/29/2022,Canada
+CoinFLEX,Victoria,Crypto,15,7/29/2022,Seychelles
+MissFresh,Beijing,Food,2,7/29/2022,China
+Yabonza,Sydney,Real Estate,5,7/29/2022,Australia
+Ribbon,New York City,Real Estate,136,7/28/2022,United States
+Career Karma,SF Bay Area,Education,60,7/28/2022,United States
+Metromile,SF Bay Area,Finance,60,7/28/2022,United States
+Laybuy,Auckland,Finance,45,7/28/2022,New Zealand
+Allbirds,SF Bay Area,Retail,23,7/28/2022,United States
+TextNow,Waterloo,Consumer,22,7/28/2022,Canada
+2U,Washington D.C.,Education,10,7/28/2022,United States
+Bikayi,Bengaluru,Retail,15,7/28/2022,India
+Brainbase,Los Angeles,Sales,5,7/28/2022,United States
+Change.org,SF Bay Area,Other,10,7/28/2022,United States
+Tapas Media,SF Bay Area,Media,4,7/28/2022,United States
+Turntide,SF Bay Area,Energy,5,7/28/2022,United States
+Rivian,Detroit,Transportation,840,7/27/2022,United States
+Vox Media,Washington D.C.,Media,39,7/27/2022,United States
+Coinsquare,Toronto,Crypto,30,7/27/2022,Canada
+Skai,Tel Aviv,Marketing,30,7/27/2022,Israel
+Shopify,Ottawa,Retail,1000,7/26/2022,Canada
+McMakler,Berlin,Real Estate,90,7/26/2022,Germany
+Fiverr,Tel Aviv,Other,60,7/26/2022,Israel
+InDebted,Sydney,Finance,40,7/26/2022,Australia
+Outbrain,New York City,Marketing,38,7/26/2022,United States
+Dover,SF Bay Area,Recruiting,23,7/26/2022,United States
+Immutable,Sydney,Crypto,20,7/26/2022,Australia
+Zymergen,SF Bay Area,Other,80,7/25/2022,United States
+Pear Therapeutics ,Boston,Healthcare,25,7/25/2022,United States
+ Included Health,SF Bay Area,Healthcare,5,7/25/2022,United States
+Soluto,Tel Aviv,Support,120,7/24/2022,Israel
+Eucalyptus,Sydney,Healthcare,50,7/22/2022,United States
+Workstream,SF Bay Area,HR,45,7/22/2022,United States
+Quanto,Sao Paulo,Finance,28,7/22/2022,Brazil
+Clarify Health,SF Bay Area,Healthcare,15,7/22/2022,United States
+Arete,Miami,Security,15,7/22/2022,United States
+Boosted Commerce,Los Angeles,Retail,12,7/22/2022,United States
+Owlet,Lehi,Healthcare,14,7/22/2022,United States
+People.ai,SF Bay Area,Sales,8,7/22/2022,United States
+Wizeline,SF Bay Area,Product,3,7/22/2022,United States
+Blockchain.com,London,Crypto,150,7/21/2022,United Kingdom
+Callisto Media,SF Bay Area,Media,140,7/21/2022,United States
+AppGate,Miami,Security,130,7/21/2022,United States
+WHOOP,Boston,Fitness,95,7/21/2022,United States
+Rad Power Bikes,Seattle,Transportation,63,7/21/2022,United States
+Lunchbox,New York City,Food,60,7/21/2022,United States
+RealSelf,Seattle,Healthcare,11,7/21/2022,United States
+98point6,Seattle,Healthcare,5,7/21/2022,United States
+Catalyst,New York City,Support,14,7/21/2022,United States
+InVision,New York City,Product,11,7/21/2022,United States
+Mural,SF Bay Area,Product,9,7/21/2022,United States
+Smarsh,Portland,Other,8,7/21/2022,United States
+Just Eat Takeaway,Amsterdam,Food,390,7/20/2022,Netherlands
+Flyhomes,Seattle,Real Estate,200,7/20/2022,United States
+Varo,SF Bay Area,Finance,75,7/20/2022,United States
+BlueStacks,SF Bay Area,Other,60,7/20/2022,United States
+Lyft,SF Bay Area,Transportation,60,7/20/2022,United States
+Introhive,Ferdericton,Sales,57,7/20/2022,Canada
+Zencity,Tel Aviv,Other,30,7/20/2022,Israel
+Splice,New York City,Media,23,7/20/2022,United States
+Forma.ai,Toronto,Sales,15,7/20/2022,Canada
+Arc,SF Bay Area,HR,13,7/20/2022,United States
+Invitae,SF Bay Area,Healthcare,1000,7/19/2022,United States
+Olive,Columbus,Healthcare,450,7/19/2022,United States
+M1,Chicago,Finance,38,7/19/2022,United States
+SellerX,Berlin,Retail,28,7/19/2022,Germany
+Stint,London,HR,28,7/19/2022,United Kingdom
+Capsule,New York City,Healthcare,6,7/19/2022,United States
+PACT Pharma,SF Bay Area,Healthcare,94,7/18/2022,United States
+Gemini,New York City,Crypto,68,7/18/2022,United States
+Lusha,New York City,Marketing,30,7/18/2022,United States
+Elemy,SF Bay Area,Healthcare,2,7/18/2022,United States
+Freshly,New York City,Food,15,7/18/2022,United States
+Hydrow,Boston,Fitness,5,7/18/2022,United States
+TikTok,Los Angeles,Consumer,10,7/18/2022,United States
+Vimeo,New York City,Consumer,2,7/18/2022,United States
+Bright Money,Bengaluru,Finance,100,7/15/2022,India
+Project44,Chicago,Logistics,63,7/15/2022,United States
+Heroes,London,Retail,24,7/15/2022,United States
+Aspire,SF Bay Area,Marketing,23,7/15/2022,United States
+StyleSeat,SF Bay Area,Consumer,11,7/15/2022,United States
+Zego,London,Finance,85,7/14/2022,United Kingdom
+The Mom Project,Chicago,HR,54,7/14/2022,United States
+Unstoppable Domains,SF Bay Area,Crypto,42,7/14/2022,United States
+Kiavi,SF Bay Area,Real Estate,39,7/14/2022,United States
+Alto Pharmacy,SF Bay Area,Healthcare,8,7/14/2022,United States
+Cosuno,Berlin,Construction,12,7/14/2022,Germany
+OpenSea,New York City,Crypto,14,7/14/2022,United States
+Wave,Dakar,Finance,300,7/13/2022,Senegal
+Tonal,SF Bay Area,Fitness,262,7/13/2022,United States
+Fabric,New York City,Logistics,120,7/13/2022,United States
+Bryter,Berlin,Product,100,7/13/2022,Germany
+ChowNow,Los Angeles,Food,100,7/13/2022,United States
+Involves,Florianópolis,Retail,70,7/13/2022,Brazil
+100 Thieves,Los Angeles,Consumer,12,7/13/2022,United States
+Nuro,SF Bay Area,Transportation,7,7/13/2022,United States
+Arrival,London,Transportation,15,7/13/2022,United Kingdom
+CircleUp,SF Bay Area,Finance,12,7/13/2022,United States
+Papa,Miami,Other,4,7/13/2022,United States
+Gopuff,Philadelphia,Food,1500,7/12/2022,United States
+Fraazo,Mumbai,Food,150,7/12/2022,India
+Babylon,London,Healthcare,100,7/12/2022,United Kingdom
+Hubilo,SF Bay Area,Marketing,45,7/12/2022,United States
+Airlift,Lahore,Logistics,4,7/12/2022,Pakistan
+Microsoft,Seattle,Other,8,7/12/2022,United States
+Spring,SF Bay Area,Retail,7,7/12/2022,United States
+Hopin,London,Other,242,7/11/2022,United Kingdom
+Alice,Sao Paulo,Healthcare,63,7/11/2022,Brazil
+SundaySky,New York City,Marketing,24,7/11/2022,United States
+Apeel Sciences,Santa Barbara,Food,14,7/11/2022,United States
+Forward,SF Bay Area,Healthcare,10,7/11/2022,United States
+Ignite,SF Bay Area,Crypto,8,7/11/2022,United States
+Nextbite,Denver,Food,2,7/9/2022,United States
+PuduTech,Shenzen,Other,1500,7/8/2022,China
+Butler Hospitality,New York City,Food,1000,7/8/2022,United States
+Calibrate,New York City,Healthcare,156,7/8/2022,United States
+NextRoll,SF Bay Area,Marketing,4,7/8/2022,United States
+Argo AI,Pittsburgh,Transportation,150,7/7/2022,United States
+Next Insurance,SF Bay Area,Finance,150,7/7/2022,United States
+Adwerx,Durham,Marketing,40,7/7/2022,United States
+Emotive,Los Angeles,Marketing,30,7/7/2022,United States
+Cedar,New York City,Healthcare,15,7/7/2022,United States
+Twitter,SF Bay Area,Consumer,11,7/7/2022,United States
+Remote,SF Bay Area,HR,100,7/6/2022,United States
+Shopify,Ottawa,Retail,50,7/6/2022,Canada
+Anodot,Tel Aviv,Data,35,7/6/2022,United States
+SQream,New York City,Data,30,7/6/2022,United States
+Motif Foodworks,Boston,Food,14,7/6/2022,United States
+Loft,Sao Paulo,Real Estate,384,7/5/2022,Brazil
+Bizzabo,New York City,Marketing,120,7/5/2022,United States
+eToro,Tel Aviv,Finance,100,7/5/2022,Israel
+Verbit,New York City,Data,80,7/5/2022,United States
+Outschool,SF Bay Area,Education,31,7/5/2022,United States
+Bullish,Hong Kong,Crypto,30,7/5/2022,Hong Kong
+Transmit Security,Boston,Security,27,7/5/2022,United States
+Thimble,New York City,Finance,20,7/5/2022,United States
+Syte,Tel Aviv,Retail,13,7/5/2022,Israel
+Lightricks,Jerusalem,Consumer,80,7/4/2022,Israel
+Chessable,London,Consumer,29,7/4/2022,United Kingdom
+Sendle,Sydney,Logistics,27,7/4/2022,Australia
+Lendis,Berlin,Other,18,7/4/2022,Germany
+Airtasker,Sydney,Consumer,5,7/4/2022,Australia
+Gorillas,Berlin,Food,540,7/3/2022,Germany
+Celsius,New York City,Crypto,150,7/3/2022,United States
+LetsGetChecked,New York City,Healthcare,13,7/2/2022,United States
+Perx Health,Sydney,Healthcare,6,7/2/2022,Australia
+Zepto,Brisbane,Finance,4,7/2/2022,Australia
+WanderJaunt,SF Bay Area,Travel,85,7/1/2022,United States
+Canoo,Los Angeles,Transportation,58,7/1/2022,United States
+Bamboo Health,Louisville,Healthcare,52,7/1/2022,United States
+Teleport,SF Bay Area,Infrastructure,15,7/1/2022,United States
+Remesh,New York City,Support,5,7/1/2022,United States
+Enjoy,SF Bay Area,Retail,400,6/30/2022,United States
+Crejo.Fun,Bengaluru,Education,170,6/30/2022,India
+Stash Financial,New York City,Finance,40,6/30/2022,United States
+Nate,New York City,Retail,30,6/30/2022,United States
+Snyk,Boston,Security,30,6/30/2022,United States
+Stream,Boulder,Product,20,6/30/2022,United States
+Finleap Connect,Hamburg,Finance,14,6/30/2022,Germany
+Abra,SF Bay Area,Crypto,12,6/30/2022,United States
+Gavelytics,Los Angeles,Legal,7,6/30/2022,United States
+Secfi,SF Bay Area,Finance,15,6/30/2022,United States
+Sundae,SF Bay Area,Real Estate,11,6/30/2022,United States
+Toppr,Mumbai,Education,350,6/29/2022,India
+Unity,SF Bay Area,Other,200,6/29/2022,United States
+Niantic,SF Bay Area,Consumer,85,6/29/2022,United States
+AvantStay,Los Angeles,Travel,80,6/29/2022,United States
+Qumulo,Seattle,Data,80,6/29/2022,United States
+Clutch,Toronto,Transportation,76,6/29/2022,Canada
+Parallel Wireless,Nashua,Infrastructure,60,6/29/2022,United States
+Oye Rickshaw,New Delhi,Transportation,40,6/29/2022,India
+Rows,Berlin,Other,18,6/29/2022,Germany
+Baton,SF Bay Area,Transportation,16,6/29/2022,United States
+Substack,SF Bay Area,Media,13,6/29/2022,United States
+CommentSold,Huntsville,Retail,8,6/29/2022,United States
+Degreed,SF Bay Area,Education,5,6/29/2022,United States
+HomeLight,SF Bay Area,Real Estate,9,6/29/2022,United States
+Modsy,SF Bay Area,Retail,11,6/29/2022,United States
+Volt Bank,Sydney,Finance,6,6/29/2022,Australia
+Huobi,Beijing,Crypto,300,6/28/2022,China
+WhiteHat Jr,Mumbai,Education,300,6/28/2022,India
+StockX,Detroit,Retail,120,6/28/2022,United States
+Sidecar Health,Los Angeles,Healthcare,110,6/28/2022,United States
+StockX,Detroit,Retail,80,6/28/2022,United States
+Vezeeta,Dubai,Healthcare,50,6/28/2022,United Arab Emirates
+Bright Machines,SF Bay Area,Data,30,6/28/2022,Israel
+HealthMatch,Sydney,Healthcare,18,6/28/2022,Australia
+Booktopia,Sydney,Retail,9,6/28/2022,Australia
+Nova Benefits,Bengaluru,Healthcare,15,6/28/2022,India
+Una Brands,Singapore,Retail,11,6/28/2022,Singapore
+AppLovin,SF Bay Area,Marketing,300,6/27/2022,United States
+UiPath,New York City,Data,210,6/27/2022,United States
+Udaan,Bengaluru,Retail,180,6/27/2022,India
+Cue,San Diego,Healthcare,170,6/27/2022,United States
+Banxa,Melbourne,Crypto,70,6/27/2022,Australia
+SafeGraph,SF Bay Area,Data,27,6/27/2022,United States
+Amount,Chicago,Finance,5,6/27/2022,United States
+Postscript,SF Bay Area,Marketing,43,6/26/2022,United States
+Bitpanda,Vienna,Crypto,270,6/24/2022,Austria
+Sunday,Atlanta,Finance,90,6/24/2022,United States
+Bestow,Dallas,Finance,41,6/24/2022,United States
+Ethos Life,SF Bay Area,Finance,40,6/24/2022,United States
+Feather,New York City,Retail,3,6/24/2022,United States
+Give Legacy,Boston,Healthcare,15,6/24/2022,United States
+Netflix,SF Bay Area,Media,300,6/23/2022,United States
+Aura,Boston,Security,70,6/23/2022,United States
+Pipl,Spokane,Security,22,6/23/2022,United States
+Vouch,SF Bay Area,Finance,15,6/23/2022,United States
+Voyage SMS,Los Angeles,Marketing,8,6/23/2022,United States
+Esper,Seattle,Other,7,6/23/2022,United States
+Kune,Nairobi,Food,13,6/23/2022,Kenya
+Mark43,New York City,Other,13,6/23/2022,United States
+Orchard,New York City,Real Estate,4,6/23/2022,United States
+Ro,New York City,Healthcare,8,6/23/2022,United States
+StreamElements,Tel Aviv,Media,8,6/23/2022,Israel
+MasterClass,SF Bay Area,Education,120,6/22/2022,United States
+IronNet,Washington D.C.,Security,90,6/22/2022,United States
+Bungalow,SF Bay Area,Real Estate,70,6/22/2022,United States
+IronNet,Washington D.C.,Security,55,6/22/2022,United States
+Sprinklr,New York City,Support,50,6/22/2022,United States
+Superpedestrian,Boston,Transportation,35,6/22/2022,United States
+Voi,Stockholm,Transportation,35,6/22/2022,United States
+Balto,St. Louis,Sales,30,6/22/2022,United States
+Ritual,Toronto,Food,23,6/22/2022,Canada
+Mindgeek,Luxembourg,Media,5,6/22/2022,Luxembourg
+Voly,Sydney,Food,3,6/22/2022,Australia
+Ebanx,Curitiba,Finance,340,6/21/2022,Brazil
+TaskUs,Los Angeles,Support,52,6/21/2022,United States
+Community,Los Angeles,Marketing,40,6/21/2022,United States
+Sourcegraph,SF Bay Area,Product,24,6/21/2022,United States
+Frubana,Bogota,Food,9,6/21/2022,Colombia
+SuperLearn,Bengaluru,Education,10,6/21/2022,India
+Tray.io,SF Bay Area,Data,3,6/21/2022,United States
+Bybit,Singapore,Crypto,600,6/20/2022,Singapore
+SummerBio,SF Bay Area,Healthcare,101,6/20/2022,United States
+Trax,Singapore,Retail,100,6/20/2022,Singapore
+Aqgromalin,Chennai,Food,80,6/20/2022,India
+Bonsai,Toronto,Retail,30,6/20/2022,Canada
+Brighte,Sydney,Energy,30,6/20/2022,Australia
+Buzzer,New York City,Media,4,6/20/2022,United States
+Bybit,Singapore,Crypto,15,6/20/2022,Singapore
+CityMall,Gurugram,Retail,191,6/19/2022,India
+BitOasis,Dubai,Crypto,9,6/19/2022,United Arab Emirates
+Unacademy,Bengaluru,Education,150,6/18/2022,India
+Bytedance,Shanghai,Consumer,150,6/17/2022,China
+Socure,Reno,Finance,69,6/17/2022,United States
+Finite State,Columbus,Security,16,6/17/2022,United States
+JOKR,New York City,Food,50,6/16/2022,United States
+Zumper,SF Bay Area,Real Estate,45,6/16/2022,United States
+PharmEasy,Mumbai,Healthcare,40,6/16/2022,India
+Circulo Health,Columbus,Healthcare,7,6/16/2022,United States
+Swappie,Helsinki,Retail,250,6/15/2022,Finland
+Wealthsimple,Toronto,Finance,159,6/15/2022,Canada
+Weee!,SF Bay Area,Food,150,6/15/2022,United States
+Notarize,Boston,Legal,110,6/15/2022,United States
+Elementor,Tel Aviv,Media,60,6/15/2022,Israel
+Tonkean,SF Bay Area,Other,23,6/15/2022,United States
+Airtame,Copenhagen,Consumer,15,6/15/2022,Denmark
+OpenWeb,Tel Aviv,Media,14,6/15/2022,Israel
+Swyft,Toronto,Logistics,10,6/15/2022,Canada
+Crehana,Lima,Education,2,6/15/2022,Peru
+JetClosing,Seattle,Real Estate,13,6/15/2022,United States
+Coinbase,SF Bay Area,Crypto,1100,6/14/2022,United States
+Redfin,Seattle,Real Estate,470,6/14/2022,United States
+Compass,New York City,Real Estate,450,6/14/2022,United States
+Sami,Sao Paulo,Healthcare,75,6/14/2022,Brazil
+Breathe,New Delhi,Healthcare,50,6/14/2022,India
+Hunty,Bogota,HR,30,6/14/2022,Colombia
+TIFIN,Boulder,Crypto,24,6/14/2022,United States
+Addi,Bogota,Finance,7,6/14/2022,Colombia
+Shopee,Singapore,Food,4,6/14/2022,Singapore
+BlockFi,New York City,Crypto,250,6/13/2022,United States
+Wave Sports and Entertainment,Los Angeles,Media,56,6/13/2022,United States
+Studio,SF Bay Area,Education,33,6/13/2022,United States
+Automox,Boulder,Infrastructure,15,6/13/2022,United States
+Desktop Metal,Boston,Other,6,6/13/2022,United States
+Crypto.com,Singapore,Crypto,260,6/10/2022,Singapore
+FarEye,New Delhi,Logistics,250,6/10/2022,India
+Berlin Brands Group,Berlin,Retail,100,6/10/2022,Germany
+Sanar,Sao Paulo,Healthcare,60,6/10/2022,Brazil
+Freetrade,London,Finance,45,6/10/2022,United Kingdom
+Albert,Los Angeles,Finance,20,6/10/2022,United States
+Keepe,Seattle,Real Estate,4,6/10/2022,United States
+Liongard,Houston,Infrastructure,6,6/10/2022,United States
+Ziroom,Beijing,Real Estate,9,6/10/2022,China
+OneTrust,Atlanta,Security,950,6/9/2022,United States
+Stitch Fix,SF Bay Area,Retail,330,6/9/2022,United States
+Daniel Wellington,Stockholm,Retail,200,6/9/2022,Sweden
+Convoy,Seattle,Logistics,90,6/9/2022,United States
+Hologram,Chicago,Infrastructure,80,6/9/2022,United States
+Boozt,Malmo,Retail,70,6/9/2022,Sweden
+The Grommet,Boston,Retail,40,6/9/2022,United States
+Stashaway,Singapore,Finance,31,6/9/2022,Singapore
+Preply,Boston,Education,26,6/9/2022,United States
+Jellysmack,New York City,Media,8,6/9/2022,United States
+Starship,SF Bay Area,Transportation,14,6/9/2022,United States
+Trade Republic,Berlin,Finance,10,6/9/2022,Germany
+Sonder,SF Bay Area,Travel,250,6/8/2022,United States
+Kavak,Sao Paulo,Transportation,150,6/8/2022,Brazil
+Truepill,SF Bay Area,Healthcare,150,6/8/2022,United States
+iPrice Group,Kuala Lumpur,Retail,50,6/8/2022,Malaysia
+Memmo,Stockholm,Consumer,5,6/8/2022,Sweden
+Cazoo,London,Transportation,750,6/7/2022,United Kingdom
+Cazoo,London,Transportation,750,6/7/2022,United Kingdom
+Rupeek,Bengaluru,Finance,180,6/7/2022,India
+Lummo,Jakarta,Marketing,150,6/7/2022,Indonesia
+Bird,Los Angeles,Transportation,138,6/7/2022,United States
+ID.me,Washington D.C.,Security,130,6/7/2022,United States
+KiwiCo,SF Bay Area,Retail,40,6/7/2022,United States
+Bond,SF Bay Area,Finance,14,6/7/2022,United States
+CyberCube,SF Bay Area,Finance,15,6/7/2022,United States
+Propzy,Ho Chi Minh City,Real Estate,3,6/7/2022,Vietnam
+Clearco,Toronto,Finance,60,6/6/2022,Canada
+Dutchie,Bend,Other,50,6/6/2022,United States
+Clearco,Dublin,Finance,9,6/6/2022,Ireland
+Deep Instinct,New York City,Security,10,6/6/2022,United States
+Sendoso,SF Bay Area,Marketing,9,6/6/2022,United States
+Eruditus,Mumbai,Education,40,6/4/2022,India
+Afterverse,Brasilia,Consumer,60,6/3/2022,Brazil
+Superhuman,SF Bay Area,Consumer,23,6/3/2022,United States
+Food52,New York City,Food,21,6/3/2022,United States
+5B Solar,Sydney,Energy,13,6/3/2022,Australia
+Clubhouse,SF Bay Area,Consumer,6,6/3/2022,United States
+Tesla,Austin,Transportation,12,6/3/2022,United States
+Carbon Health,SF Bay Area,Healthcare,250,6/2/2022,United States
+Favo,Sao Paulo,Food,170,6/2/2022,Brazil
+PolicyGenius,New York City,Finance,170,6/2/2022,United States
+Yojak,Gurugram,Construction,140,6/2/2022,India
+Envato,Melbourne,Marketing,100,6/2/2022,Australia
+Gemini,New York City,Crypto,100,6/2/2022,United States
+Stord,Atlanta,Logistics,59,6/2/2022,United States
+Gather,SF Bay Area,Consumer,30,6/2/2022,United States
+Shef,SF Bay Area,Food,29,6/2/2022,United States
+IRL,SF Bay Area,Consumer,25,6/2/2022,United States
+Esme Learning,Boston,Education,4,6/2/2022,United States
+Kaodim,Selangor,Consumer,11,6/2/2022,United States
+Rain,Manama,Finance,14,6/2/2022,Bahrain
+TomTom,Amsterdam,Transportation,500,6/1/2022,Netherlands
+Cybereason,Boston,Security,100,6/1/2022,United States
+Udayy,Gurugram,Education,100,6/1/2022,India
+2TM,Sao Paulo,Crypto,90,6/1/2022,Brazil
+Curve,London,Finance,65,6/1/2022,United Kingdom
+Loom,SF Bay Area,Product,34,6/1/2022,United States
+Skillshare,New York City,Education,31,6/1/2022,United States
+Impala,London,Travel,30,6/1/2022,United Kingdom
+Eaze,SF Bay Area,Consumer,25,6/1/2022,United States
+Side,SF Bay Area,Real Estate,14,6/1/2022,United States
+Truck It In,Karachi,Logistics,2,6/1/2022,Pakistan
+Playtika,Tel Aviv,Consumer,250,5/31/2022,Israel
+Replicated,Los Angeles,Infrastructure,50,5/31/2022,United States
+Tomo,Stamford,Finance,44,5/31/2022,United States
+Getta,Tel Aviv,Transportation,30,5/31/2022,Israel
+BookClub,Salt Lake City,Education,12,5/31/2022,United States
+Cerebral,SF Bay Area,Healthcare,9,5/31/2022,United States
+SWVL,Dubai,Transportation,400,5/30/2022,United Arab Emirates
+Mobile Premier League,Bengaluru,Consumer,100,5/30/2022,India
+SumUp,Sao Paulo,Finance,100,5/30/2022,Brazil
+Tempus Ex,SF Bay Area,Data,2,5/30/2022,United States
+FrontRow,Bengaluru,Education,145,5/27/2022,India
+Daloopa,New Delhi,Data,40,5/27/2022,India
+Uncapped,London,Finance,29,5/27/2022,United Kingdom
+Akerna,Denver,Logistics,15,5/27/2022,United States
+Terminus,Atlanta,Marketing,6,5/27/2022,United States
+VTEX,Sao Paulo,Retail,200,5/26/2022,Brazil
+Bitso,Mexico City,Crypto,80,5/26/2022,Mexico
+Foodpanda,Bucharest,Food,80,5/26/2022,Romania
+Dazn,London,Consumer,50,5/26/2022,United Kingdom
+Lacework,SF Bay Area,Security,300,5/25/2022,United States
+Bolt,SF Bay Area,Finance,240,5/25/2022,United States
+PeerStreet,Los Angeles,Finance,75,5/25/2022,United States
+Kontist,Berlin,Finance,50,5/25/2022,Germany
+Nuri,Berlin,Finance,45,5/25/2022,Germany
+Coterie Insurance,Cincinnati,Finance,30,5/25/2022,United States
+Airlift,Lahore,Logistics,10,5/25/2022,Pakistan
+Getir,Istanbul,Food,4,5/25/2022,Turkey
+Zapp,London,Food,11,5/25/2022,United Kingdom
+Gorillas,Berlin,Food,300,5/24/2022,Germany
+Zenius,Jakarta,Education,200,5/24/2022,Indonesia
+The Zebra,Austin,Finance,40,5/24/2022,United States
+Klarna,Stockholm,Finance,700,5/23/2022,Sweden
+PayPal,SF Bay Area,Finance,83,5/23/2022,United States
+Buenbit,Buenos Aires,Crypto,80,5/23/2022,Argentina
+BeyondMinds,Tel Aviv,Data,65,5/23/2022,Israel
+ClickUp,San Diego,Other,60,5/23/2022,United States
+Airtime,New York City,Consumer,30,5/23/2022,United States
+Olist,Curitiba,Retail,3,5/23/2022,Brazil
+MFine,Bengaluru,Healthcare,600,5/21/2022,India
+Latch,New York City,Security,130,5/20/2022,United States
+Outside,Boulder,Media,87,5/20/2022,United States
+Skillz,SF Bay Area,Consumer,70,5/20/2022,United States
+Cars24,Gurugram,Transportation,600,5/19/2022,India
+Vedantu,Bengaluru,Education,424,5/18/2022,India
+Netflix,SF Bay Area,Media,150,5/17/2022,United States
+Kry,Stockholm,Healthcare,100,5/17/2022,Sweden
+Picsart,Miami,Consumer,90,5/17/2022,United States
+Zak,Sao Paulo,Food,100,5/16/2022,United States
+Zulily,Seattle,Retail,9,5/16/2022,United States
+AliExpress Russia,Moscow,Retail,400,5/14/2022,Russia
+Thirty Madison,New York City,Healthcare,24,5/14/2022,United States
+CommonBond,New York City,Finance,22,5/13/2022,United States
+Subspace,Los Angeles,Infrastructure,9,5/13/2022,United States
+Zwift,Los Angeles,Fitness,150,5/12/2022,United States
+Section4,New York City,Education,32,5/12/2022,United States
+Tripwire,Portland,Security,7,5/12/2022,United States
+DataRobot,Boston,Data,70,5/11/2022,United States
+Carvana,Phoenix,Transportation,2500,5/10/2022,United States
+Doma,SF Bay Area,Finance,310,5/10/2022,United States
+Pollen,London,Travel,200,5/10/2022,United Kingdom
+Latch,New York City,Security,30,5/10/2022,United States
+Vroom,New York City,Transportation,270,5/9/2022,United States
+Reef,Miami,Transportation,750,5/6/2022,United States
+divvyDOSE,Davenport,Healthcare,62,5/6/2022,United States
+Vedantu,Bengaluru,Education,200,5/5/2022,India
+Mural,SF Bay Area,Product,90,5/5/2022,United States
+On Deck,SF Bay Area,Education,72,5/5/2022,United States
+SEND,Sydney,Food,300,5/4/2022,Australia
+Colossus,Boston,Energy,97,5/4/2022,United States
+Cameo,Chicago,Consumer,87,5/4/2022,United States
+Mainstreet,SF Bay Area,Finance,45,5/4/2022,United States
+Ideoclick,Seattle,Retail,40,5/4/2022,United States
+Vise,New York City,Finance,25,5/4/2022,United States
+Bizpay,Sydney,Finance,2,5/4/2022,Australia
+Thrasio,Boston,Retail,12,5/2/2022,United States
+Avo,Tel Aviv,Food,500,5/1/2022,Israel
+Noom,New York City,Healthcare,495,4/29/2022,United States
+Domestika,SF Bay Area,Education,150,4/28/2022,United States
+Netflix,SF Bay Area,Media,25,4/28/2022,United States
+Wahoo Fitness,Atlanta,Fitness,50,4/27/2022,United States
+Robinhood,SF Bay Area,Finance,340,4/26/2022,United States
+Bonsai,Toronto,Retail,29,4/26/2022,Canada
+Clyde,New York City,Marketing,22,4/25/2022,United States
+Xiaohongshu,Shanghai,Consumer,180,4/21/2022,China
+Facily,Sao Paulo,Retail,260,4/20/2022,Brazil
+Lemonade,New York City,Finance,52,4/20/2022,United States
+Blend,SF Bay Area,Finance,200,4/19/2022,United States
+QuintoAndar,Sao Paulo,Real Estate,160,4/19/2022,Brazil
+Loft,Sao Paulo,Real Estate,159,4/19/2022,Brazil
+Better.com,New York City,Real Estate,2,4/19/2022,United States
+Automox,Boulder,Infrastructure,4,4/18/2022,United States
+Humble,SF Bay Area,Media,10,4/15/2022,United States
+Halcyon Health,New York City,Healthcare,2,4/15/2022,United States
+Ahead,SF Bay Area,Healthcare,44,4/14/2022,United States
+Truepill,SF Bay Area,Healthcare,3,4/14/2022,United States
+Rad Power Bikes,Seattle,Transportation,100,4/12/2022,United States
+Meesho,Bengaluru,Retail,150,4/11/2022,India
+Food52,New York City,Food,20,4/8/2022,United States
+Unacademy,Bengaluru,Education,1000,4/7/2022,India
+Goodfood,Calgary,Food,70,4/7/2022,Canada
+Workrise,Austin,Energy,450,4/5/2022,United States
+Fast,SF Bay Area,Finance,11,4/5/2022,United States
+BitMEX,Non-U.S.,Crypto,75,4/4/2022,Seychelles
+Legible,Vancouver,Media,23,4/4/2022,Canada
+Sea,Bengaluru,Retail,350,3/30/2022,India
+Rasa,Berlin,Data,59,3/30/2022,Germany
+Gopuff,Philadelphia,Food,450,3/29/2022,United States
+Thinkific,Vancouver,Education,100,3/29/2022,Canada
+Furlenco,Bengaluru,Retail,180,3/26/2022,India
+Grove Collaborative,SF Bay Area,Retail,2,3/19/2022,United States
+Storytel,Stockholm,Media,100,3/17/2022,Sweden
+Curology,SF Bay Area,Healthcare,150,3/16/2022,United States
+Trell,Bengaluru,Retail,300,3/15/2022,India
+Knock,New York City,Real Estate,115,3/15/2022,United States
+Talis Biomedical,SF Bay Area,Healthcare,11,3/15/2022,United States
+Sezzle,Minneapolis,Finance,5,3/10/2022,United States
+Better.com,New York City,Real Estate,3000,3/8/2022,United States
+Adaptive Biotechnologies,Seattle,Healthcare,100,3/8/2022,United States
+Hyperscience,New York City,Data,100,3/3/2022,United States
+WeDoctor,Non-U.S.,Healthcare,500,3/2/2022,China
+Wish,SF Bay Area,Retail,190,3/1/2022,United States
+iFit,Logan,Fitness,8,2/25/2022,United States
+OKCredit,New Delhi,Finance,30,2/24/2022,India
+Lido,Mumbai,Education,150,2/21/2022,India
+Virgin Hyperloop,Los Angeles,Transportation,111,2/21/2022,United States
+Trustly,Stockholm,Finance,120,2/17/2022,Sweden
+Liv Up,Sao Paulo,Food,100,2/16/2022,Brazil
+Homie,Salt Lake City,Real Estate,119,2/14/2022,United States
+Hopin,London,Other,138,2/10/2022,United States
+Peloton,New York City,Fitness,2800,2/8/2022,United States
+Defined.ai,Seattle,Data,5,2/7/2022,United States
+Rhino,New York City,Real Estate,57,2/3/2022,United States
+Gopuff,Philadelphia,Food,100,1/26/2022,United States
+Glossier,New York City,Consumer,80,1/26/2022,United States
+Root Insurance,Columbus,Finance,330,1/20/2022,United States
+Spin,SF Bay Area,Transportation,12,1/8/2022,United States
+Delivery Hero,Berlin,Food,300,12/22/2021,Germany
+iFit,Logan,Fitness,10,12/8/2021,United States
+Better.com,New York City,Real Estate,900,12/1/2021,United States
+BitTitan,Seattle,Data,70,11/18/2021,United States
+Zillow,Seattle,Real Estate,2000,11/2/2021,United States
+InVision,New York City,Product,22,10/5/2021,United States
+Ozy Media,SF Bay Area,Media,9,10/1/2021,United States
+Zymergen,SF Bay Area,Other,120,9/23/2021,United States
+Imperfect Foods,SF Bay Area,Food,12,9/22/2021,United States
+Genius,New York City,Consumer,8,9/15/2021,United States
+Treehouse,Portland,Education,41,9/14/2021,United States
+Casper,New York City,Retail,13,9/14/2021,United States
+Tanium,Seattle,Security,30,8/30/2021,United States
+Flockjay,SF Bay Area,Education,37,8/24/2021,United States
+Bytedance,Shanghai,Consumer,1800,8/5/2021,China
+Pagarbook,Bengaluru,HR,80,7/26/2021,India
+Katerra,SF Bay Area,Construction,2434,6/1/2021,United States
+SumUp,London,Finance,15,5/5/2021,United Kingdom
+Lambda School,SF Bay Area,Education,65,4/29/2021,United States
+Madefire,SF Bay Area,Media,13,4/29/2021,United States
+Patreon,SF Bay Area,Media,36,4/26/2021,United States
+New Relic,SF Bay Area,Infrastructure,160,4/6/2021,United States
+Medium,SF Bay Area,Media,11,3/24/2021,United States
+HuffPo,New York City,Media,47,3/9/2021,United States
+Subspace,Los Angeles,Infrastructure,5,3/3/2021,United States
+Clumio,SF Bay Area,Data,6,3/1/2021,United States
+DJI,SF Bay Area,Consumer,13,2/24/2021,United States
+Ninjacart,Bengaluru,Food,200,2/23/2021,India
+Bounce,Bengaluru,Transportation,200,2/22/2021,India
+ThredUp,Chicago,Retail,243,2/9/2021,United States
+Indigo,Boston,Other,80,2/9/2021,United States
+Limelight,New York City,Recruiting,13,2/4/2021,United States
+Quandoo,Berlin,Food,87,2/3/2021,Germany
+Hubba,Toronto,Retail,45,2/1/2021,Canada
+Bytedance,Mumbai,Consumer,1800,1/27/2021,India
+Privitar,London,Data,20,1/27/2021,United Kingdom
+Shutterfly,SF Bay Area,Retail,800,1/25/2021,United States
+Postmates,SF Bay Area,Food,180,1/23/2021,United States
+Instacart,SF Bay Area,Food,1877,1/21/2021,United States
+Pocketmath,Singapore,Marketing,21,1/20/2021,Singapore
+Dropbox,SF Bay Area,Other,315,1/13/2021,United States
+Aura Financial,SF Bay Area,Finance,9,1/11/2021,United States
+Simple,Portland,Finance,2,1/7/2021,United States
+WhiteHat Jr,Mumbai,Education,1800,1/6/2021,India
+Pulse Secure,SF Bay Area,Security,78,12/23/2020,United States
+Breather,Montreal,Real Estate,120,12/16/2020,Canada
+Actifio,Boston,Data,54,12/16/2020,United States
+OYO,Gurugram,Travel,600,12/8/2020,India
+Zinier,SF Bay Area,HR,6,11/25/2020,United States
+Aya,Toronto,Finance,5,11/19/2020,United States
+Domio,New York City,Real Estate,9,11/18/2020,United States
+Bridge Connector,Nashville,Healthcare,154,11/17/2020,United States
+Tidepool,SF Bay Area,Healthcare,18,11/17/2020,United States
+Igenous,Seattle,Data,14,11/17/2020,United States
+Scoop,SF Bay Area,Transportation,12,11/17/2020,United States
+Worksmith,Austin,Retail,30,11/9/2020,United States
+Rubica,Seattle,Security,6,11/5/2020,United States
+Bossa Nova,SF Bay Area,Retail,13,11/2/2020,United States
+LivePerson,New York City,Support,30,11/1/2020,United States
+Remedy,Austin,Healthcare,82,10/29/2020,United States
+Knotel,New York City,Real Estate,20,10/29/2020,United States
+Cheetah,SF Bay Area,Food,8,10/25/2020,United States
+CodeCombat,SF Bay Area,Education,8,10/23/2020,United States
+Quibi,Los Angeles,Media,3,10/21/2020,United States
+Zomato,Jakarta,Food,13,10/20/2020,Indonesia
+GetYourGuide,Berlin,Travel,90,10/14/2020,Germany
+OLX India,New Delhi,Marketing,250,10/10/2020,India
+Chef,Seattle,Infrastructure,6,10/8/2020,United States
+Alto Pharmacy,SF Bay Area,Healthcare,47,9/29/2020,United States
+TheWrap,Los Angeles,Media,12,9/29/2020,United States
+HumanForest,London,Transportation,3,9/25/2020,United Kingdom
+WeWork ,Shenzen,Real Estate,9,9/23/2020,China
+Air,New York City,Marketing,16,9/16/2020,United States
+NS8,Las Vegas,Data,240,9/11/2020,United States
+Bleacher Report,London,Media,20,9/11/2020,United Kingdom
+HubHaus,SF Bay Area,Real Estate,7,9/11/2020,United States
+Waze,SF Bay Area,Transportation,30,9/9/2020,United States
+Ouster,SF Bay Area,Transportation,11,9/8/2020,United States
+Swing Education,SF Bay Area,Education,4,9/5/2020,United States
+Akerna,Denver,Logistics,12,9/2/2020,United States
+Awok,Dubai,Retail,4,9/2/2020,United Arab Emirates
+Big Fish Games,Seattle,Media,250,9/1/2020,United States
+GoBear,Singapore,Finance,22,9/1/2020,Singapore
+MakeMyTrip,New Delhi,Travel,350,8/31/2020,India
+Salesforce,SF Bay Area,Sales,1000,8/26/2020,United States
+kununu,Boston,Recruiting,12,8/26/2020,United States
+Superloop,Brisbane,Infrastructure,30,8/24/2020,Australia
+Spaces,Los Angeles,Media,15,8/24/2020,United States
+StreamSets,SF Bay Area,Data,15,8/20/2020,United States
+Docly,London,Healthcare,8,8/19/2020,United Kingdom
+Mapify,Berlin,Travel,15,8/19/2020,Germany
+Lumina Networks,SF Bay Area,Infrastructure,11,8/18/2020,United States
+DJI,Shenzen,Consumer,4,8/17/2020,China
+Shopify,Ottawa,Retail,30,8/14/2020,Canada
+InVision,New York City,Product,11,8/14/2020,United States
+HopSkipDrive,Los Angeles,Transportation,4,8/12/2020,United States
+Mozilla,SF Bay Area,Consumer,250,8/11/2020,United States
+Eatsy,Singapore,Food,20,8/8/2020,Singapore
+Glossier,New York City,Retail,150,8/7/2020,United States
+The Appraisal Lane,Montevideo,Transportation,5,8/7/2020,Uruguay
+Thriver,Toronto,Food,75,8/6/2020,Canada
+Vesta,Atlanta,Sales,56,8/5/2020,United States
+Booking.com,Amsterdam,Travel,4375,7/30/2020,Netherlands
+Buy.com / Rakuten,SF Bay Area,Retail,87,7/30/2020,United States
+tZero,New York City,Finance,4,7/30/2020,United States
+Pared,SF Bay Area,Food,4,7/29/2020,United States
+Procore,Los Angeles,Construction,180,7/28/2020,United States
+Swiggy,Bengaluru,Food,350,7/27/2020,India
+Zeitgold,Berlin,Finance,75,7/27/2020,Germany
+Perkbox,London,HR,14,7/27/2020,United Kingdom
+Checkr,SF Bay Area,HR,64,7/23/2020,United States
+Sorabel,Jakarta,Retail,10,7/23/2020,Indonesia
+LinkedIn,SF Bay Area,Recruiting,960,7/21/2020,United States
+Lighter Capital,Seattle,Finance,22,7/20/2020,United States
+Curefit,Bengaluru,Fitness,120,7/17/2020,India
+Snaptravel,Toronto,Travel,2,7/16/2020,Canada
+Optimizely,SF Bay Area,Marketing,60,7/15/2020,United States
+Skyscanner,Edinburgh,Travel,300,7/14/2020,United Kingdom
+Vox Media,Washington D.C.,Media,11,7/14/2020,United States
+Yelp,SF Bay Area,Consumer,63,7/13/2020,United States
+Bizongo,Mumbai,Logistics,140,7/10/2020,India
+Zilingo,Singapore,Retail,100,7/9/2020,Singapore
+PaySense,Mumbai,Finance,40,7/9/2020,India
+Funding Circle,SF Bay Area,Finance,85,7/8/2020,United States
+OnDeck,New York City,Finance,12,7/8/2020,United States
+The Wing,New York City,Real Estate,56,7/1/2020,United States
+Sharethrough,SF Bay Area,Marketing,18,7/1/2020,United States
+Kongregate,SF Bay Area,Media,12,7/1/2020,United States
+Havenly,Denver,Consumer,5,7/1/2020,United States
+G2,Chicago,Marketing,17,6/30/2020,United States
+Hired,SF Bay Area,Recruiting,5,6/30/2020,United States
+Katerra,SF Bay Area,Construction,400,6/29/2020,United States
+Bounce,Bengaluru,Transportation,130,6/29/2020,India
+Argo AI,Munich,Transportation,100,6/29/2020,Germany
+Bossa Nova,SF Bay Area,Retail,61,6/29/2020,United States
+New Relic,Portland,Infrastructure,20,6/29/2020,United States
+Engine eCommerce,Fayetteville,Retail,11,6/28/2020,United States
+Byton,SF Bay Area,Transportation,5,6/27/2020,United States
+Sprinklr,New York City,Support,4,6/25/2020,United States
+GoDaddy,Austin,Marketing,451,6/24/2020,United States
+Sonos,New York City,Consumer,174,6/24/2020,United States
+OYO,Dallas,Travel,5,6/24/2020,United States
+Gojek,Jakarta,Transportation,430,6/23/2020,Indonesia
+ScaleFactor,Austin,Finance,90,6/23/2020,United States
+Dark,SF Bay Area,Product,6,6/23/2020,United States
+Intuit,SF Bay Area,Finance,715,6/22/2020,United States
+WeWork,London,Real Estate,200,6/19/2020,United Kingdom
+Atlas Obscura ,New York City,Media,15,6/18/2020,United States
+Navi,Bengaluru,Finance,40,6/17/2020,India
+PaisaBazaar,Gurugram,Finance,1500,6/16/2020,India
+Grab,Singapore,Transportation,360,6/16/2020,Singapore
+Splunk,SF Bay Area,Data,70,6/16/2020,United States
+Redox,Madison,Healthcare,44,6/16/2020,United States
+Conga,Denver,Data,15,6/15/2020,United States
+Stockwell AI,SF Bay Area,Retail,8,6/15/2020,United States
+Uber,Amsterdam,Transportation,225,6/12/2020,Netherlands
+SynapseFI,SF Bay Area,Finance,63,6/12/2020,United States
+ScaleFocus,Sofia,Infrastructure,120,6/11/2020,Bulgaria
+Branch,New York City,Retail,3,6/11/2020,United States
+Her Campus Media,Boston,Media,10,6/10/2020,United States
+Integrate.ai,Toronto,Support,26,6/9/2020,Canada
+The Athletic,SF Bay Area,Media,46,6/5/2020,United States
+Ethos Life,SF Bay Area,Finance,18,6/5/2020,United States
+Lastline,SF Bay Area,Security,50,6/4/2020,United States
+Builder,Los Angeles,Product,39,6/4/2020,United States
+Outdoorsy,SF Bay Area,Transportation,11,6/4/2020,United States
+Monzo,London,Finance,120,6/3/2020,United Kingdom
+Kitty Hawk,SF Bay Area,Aerospace,70,6/3/2020,United States
+SpotHero,Chicago,Transportation,40,6/3/2020,United States
+Credit Sesame,SF Bay Area,Finance,22,6/3/2020,United States
+Circ,Berlin,Transportation,100,6/2/2020,Germany
+Rivian,Detroit,Transportation,40,6/2/2020,United States
+Fundbox,SF Bay Area,Finance,14,6/2/2020,United States
+Descartes Labs,Santa Fe,Data,12,6/2/2020,United States
+MakerBot,New York City,Consumer,12,6/2/2020,United States
+Stitch Fix,SF Bay Area,Retail,1400,6/1/2020,United States
+MakeMyTrip,Gurugram,Travel,350,6/1/2020,India
+CrowdStreet,Portland,Real Estate,24,6/1/2020,United States
+Brex,SF Bay Area,Finance,62,5/29/2020,United States
+Loftium,Seattle,Real Estate,32,5/29/2020,United States
+BookMyShow,Mumbai,Consumer,270,5/28/2020,India
+TrueCar,Los Angeles,Transportation,219,5/28/2020,United States
+StubHub,SF Bay Area,Consumer,200,5/28/2020,United States
+Culture Amp,Melbourne,HR,36,5/28/2020,Australia
+The Sill,New York City,Retail,20,5/28/2020,United States
+Instructure,Salt Lake City,Education,150,5/27/2020,United States
+Ebanx,Curitiba,Finance,62,5/27/2020,Brazil
+Uber,Bengaluru,Transportation,600,5/26/2020,India
+Bluprint,Denver,Education,137,5/26/2020,United States
+Acorns,Portland,Finance,50,5/26/2020,United States
+CarDekho,Gurugram,Transportation,200,5/25/2020,India
+Teamwork,Cork,Other,21,5/22/2020,Ireland
+Cvent,Washington D.C.,Marketing,400,5/21/2020,United States
+PickYourTrail,Chennai,Travel,70,5/21/2020,India
+Glitch,New York City,Product,18,5/21/2020,United States
+Kapten / Free Now,Paris,Transportation,7,5/21/2020,France
+Ola,Bengaluru,Transportation,1400,5/20/2020,India
+Samsara,SF Bay Area,Logistics,300,5/20/2020,United States
+Stay Alfred,Spokane,Travel,221,5/20/2020,United States
+SoFi,SF Bay Area,Finance,112,5/20/2020,United States
+ShareChat,Bengaluru,Marketing,101,5/20/2020,India
+Intercom,SF Bay Area,Support,39,5/20/2020,United States
+Livspace,Bengaluru,Retail,450,5/19/2020,India
+Pollen,London,Travel,69,5/19/2020,United Kingdom
+Dotscience,London,Product,10,5/19/2020,United Kingdom
+Divvy,Salt Lake City,Finance,7,5/19/2020,United States
+Uber,SF Bay Area,Transportation,3000,5/18/2020,United States
+Agoda,Singapore,Travel,1500,5/18/2020,Singapore
+Swiggy,Bengaluru,Food,1100,5/18/2020,India
+WeWork,New Delhi,Real Estate,100,5/18/2020,India
+Rubrik,SF Bay Area,Infrastructure,57,5/18/2020,United States
+Intapp,SF Bay Area,Legal,45,5/18/2020,United States
+Checkmarx,Tel Aviv,Security,9,5/18/2020,Israel
+Datera,SF Bay Area,Infrastructure,15,5/18/2020,United States
+Magicbricks,Noida,Real Estate,250,5/17/2020,India
+Zomato,Gurugram,Food,520,5/15/2020,India
+Lendingkart,Ahmedabad,Finance,500,5/15/2020,India
+Lattice,SF Bay Area,HR,16,5/15/2020,United States
+Masse,New York City,Retail,7,5/15/2020,United States
+Cruise,SF Bay Area,Transportation,150,5/14/2020,United States
+Quartz,New York City,Media,80,5/14/2020,United States
+Integral Ad Science,New York City,Marketing,70,5/14/2020,United States
+Ridecell,SF Bay Area,Transportation,35,5/14/2020,United States
+Veem,SF Bay Area,Finance,30,5/14/2020,United States
+Sift,SF Bay Area,Security,4,5/14/2020,United States
+Workfront,Salt Lake City,Marketing,4,5/14/2020,United States
+Deliv,SF Bay Area,Retail,669,5/13/2020,United States
+Mercos,Joinville,Sales,51,5/13/2020,Brazil
+Kickstarter,New York City,Finance,25,5/13/2020,United States
+Intersect,Toronto,Product,19,5/13/2020,Canada
+Mode Analytics,SF Bay Area,Data,17,5/13/2020,United States
+BetterCloud,New York City,Security,9,5/13/2020,United States
+WeFit,Hanoi,Fitness,5,5/13/2020,Vietnam
+Zymergen ,SF Bay Area,Other,10,5/13/2020,United States
+Stone,Sao Paulo,Finance,1300,5/12/2020,Brazil
+Zeus Living,SF Bay Area,Real Estate,73,5/12/2020,United States
+Mixpanel,SF Bay Area,Data,65,5/12/2020,United States
+Hireology,Chicago,Recruiting,36,5/12/2020,United States
+Top Hat,Toronto,Education,16,5/12/2020,Canada
+Datto,Norwalk,Infrastructure,10,5/12/2020,United States
+Petal,New York City,Finance,15,5/12/2020,United States
+Revolut,London,Finance,60,5/11/2020,United Kingdom
+Cadre,New York City,Real Estate,28,5/11/2020,United States
+N26,New York City,Finance,9,5/8/2020,United States
+Jump,New York City,Transportation,500,5/7/2020,United States
+Glassdoor,SF Bay Area,Recruiting,300,5/7/2020,United States
+Numbrs,Zurich,Finance,62,5/7/2020,Switzerland
+Flywire,Boston,Finance,60,5/7/2020,United States
+SalesLoft,Atlanta,Sales,55,5/7/2020,United States
+Tally,SF Bay Area,Finance,28,5/7/2020,United States
+Airy Rooms,Jakarta,Travel,12,5/7/2020,Indonesia
+Uber,SF Bay Area,Transportation,3700,5/6/2020,United States
+Validity,Boston,Data,130,5/6/2020,United States
+Flatiron School,New York City,Education,100,5/6/2020,United States
+Rubicon Project,Los Angeles,Marketing,50,5/6/2020,United States
+Segment,SF Bay Area,Data,50,5/6/2020,United States
+OPay,Lagos,Finance,7,5/6/2020,Nigeria
+ThoughtSpot,SF Bay Area,Data,10,5/6/2020,United States
+Airbnb,SF Bay Area,Travel,1900,5/5/2020,United States
+Juul,SF Bay Area,Consumer,900,5/5/2020,United States
+Andela,New York City,Recruiting,135,5/5/2020,United States
+Stack Overflow,New York City,Recruiting,40,5/5/2020,United States
+Pipedrive,Tallin,Sales,31,5/5/2020,Estonia
+Workable,Boston,Recruiting,25,5/5/2020,United States
+Cloudera,SF Bay Area,Infrastructure,13,5/5/2020,United States
+Handshake,SF Bay Area,Recruiting,10,5/5/2020,United States
+League,Toronto,Healthcare,15,5/5/2020,Canada
+CureFit,Bengaluru,Fitness,800,5/4/2020,India
+Careem,Dubai,Transportation,536,5/4/2020,United Arab Emirates
+Oriente,Hong Kong,Finance,400,5/4/2020,Hong Kong
+Veriff,Tallin,Security,63,5/4/2020,Estonia
+Element AI,Montreal,Other,62,5/4/2020,Canada
+Deputy,Sydney,HR,60,5/4/2020,Australia
+Loopio,Toronto,Sales,11,5/4/2020,Canada
+Castlight Health,SF Bay Area,Healthcare,4,5/4/2020,United States
+Trivago,Dusseldorf,Travel,11,5/4/2020,Germany
+Trax,Tel Aviv,Retail,120,5/3/2020,Israel
+LiveTiles,New York City,Other,50,5/3/2020,United States
+OYO,London,Travel,150,5/1/2020,United Kingdom
+Namely,New York City,HR,110,5/1/2020,United States
+Culture Trip,London,Media,95,5/1/2020,United Kingdom
+Sandbox VR,SF Bay Area,Consumer,80,5/1/2020,United States
+Virtudent,Boston,Healthcare,70,5/1/2020,United States
+Monese,Lisbon,Finance,35,5/1/2020,Portugal
+TheSkimm,New York City,Media,26,5/1/2020,United States
+Automatic,SF Bay Area,Transportation,4,5/1/2020,United States
+Flynote,Bengaluru,Travel,12,5/1/2020,India
+Bullhorn,Boston,Sales,100,4/30/2020,United States
+Care.com,Boston,Consumer,81,4/30/2020,United States
+AirMap,Los Angeles,Aerospace,4,4/30/2020,United States
+Cohesity,SF Bay Area,Data,14,4/30/2020,United States
+Fandom,SF Bay Area,Media,10,4/30/2020,United States
+PicoBrew,Seattle,Food,15,4/30/2020,United States
+Lyft,SF Bay Area,Transportation,982,4/29/2020,United States
+WeWork,SF Bay Area,Real Estate,300,4/29/2020,United States
+Kayak / OpenTable,Stamford,Travel,160,4/29/2020,United States
+Kitopi,New York City,Food,124,4/29/2020,United States
+Lime,SF Bay Area,Transportation,80,4/29/2020,United States
+Transfix,New York City,Logistics,24,4/29/2020,United States
+Yoco,Cape Town,Finance,10,4/29/2020,South Africa
+TripAdvisor,Boston,Travel,900,4/28/2020,United States
+Renmoney,Lagos,Finance,391,4/28/2020,Nigeria
+Deliveroo,London,Food,367,4/28/2020,United Kingdom
+App Annie,SF Bay Area,Data,80,4/28/2020,United States
+OpenX,Los Angeles,Marketing,35,4/28/2020,United States
+PayJoy,SF Bay Area,Finance,27,4/28/2020,United States
+Shipsi,Los Angeles,Retail,20,4/28/2020,United States
+Desktop Metal,Boston,Other,15,4/28/2020,United States
+Migo,SF Bay Area,Finance,13,4/28/2020,United States
+Automation Anywhere,SF Bay Area,Other,260,4/27/2020,United States
+JetClosing,Seattle,Real Estate,20,4/27/2020,United States
+Qwick,Phoenix,Recruiting,3,4/27/2020,United States
+OYO,Sao Paulo,Travel,500,4/25/2020,Brazil
+Stoqo,Jakarta,Food,250,4/25/2020,Indonesia
+Submittable,Missoula,Other,30,4/25/2020,United States
+Divergent 3D,Los Angeles,Transportation,57,4/24/2020,United States
+Ada Support,Toronto,Support,36,4/24/2020,Canada
+UPshow,Chicago,Marketing,19,4/24/2020,United States
+Lighter Capital,Seattle,Finance,18,4/24/2020,United States
+Horizn Studios,Berlin,Travel,15,4/24/2020,Germany
+Welkin Health,SF Bay Area,Healthcare,10,4/24/2020,United States
+Jiobit,Chicago,Consumer,6,4/24/2020,United States
+TutorMundi,Sao Paulo,Education,4,4/24/2020,Brazil
+Cheddar,New York City,Media,9,4/24/2020,United States
+GoCardless,London,Finance,4,4/24/2020,United Kingdom
+StockX,Detroit,Retail,100,4/23/2020,United States
+Zenefits,SF Bay Area,HR,87,4/23/2020,United States
+Sisense,New York City,Data,80,4/23/2020,United States
+Oscar Health,New York City,Healthcare,70,4/23/2020,United States
+Simon Data,New York City,Marketing,6,4/23/2020,United States
+Convoy,Seattle,Logistics,8,4/23/2020,United States
+PowerReviews,Chicago,Retail,6,4/23/2020,United States
+Singular,SF Bay Area,Marketing,11,4/23/2020,United States
+Magic Leap,Miami,Consumer,1000,4/22/2020,United States
+When I Work,Minneapolis,HR,55,4/22/2020,United States
+Ike,SF Bay Area,Transportation,10,4/22/2020,United States
+Airy Rooms,Jakarta,Travel,6,4/22/2020,Indonesia
+Clearbit,SF Bay Area,Data,8,4/22/2020,United States
+ExtraHop,Seattle,Security,5,4/22/2020,United States
+Nearmap,Sydney,Construction,5,4/22/2020,Australia
+Swiggy,Bengaluru,Food,800,4/21/2020,India
+Paytm,New Delhi,Finance,500,4/21/2020,India
+Lending Club,SF Bay Area,Finance,460,4/21/2020,United States
+Houzz,SF Bay Area,Consumer,155,4/21/2020,United States
+Casper,New York City,Retail,78,4/21/2020,United States
+RealSelf,Seattle,Healthcare,40,4/21/2020,United States
+Freshbooks,Toronto,Finance,38,4/21/2020,Canada
+Patreon,SF Bay Area,Media,30,4/21/2020,United States
+Lambda School,SF Bay Area,Education,19,4/21/2020,United States
+Politico / Protocol,Washington D.C.,Media,13,4/21/2020,United States
+Bringg,Tel Aviv,Logistics,10,4/21/2020,Israel
+Klook,Hong Kong,Travel,300,4/20/2020,Hong Kong
+ConsenSys,New York City,Crypto,91,4/20/2020,United States
+GumGum,Los Angeles,Marketing,90,4/20/2020,United States
+Kueski,Guadalajara,Finance,90,4/20/2020,Mexico
+Movidesk,Blumenau,Support,33,4/20/2020,Brazil
+Zum,SF Bay Area,Transportation,28,4/20/2020,United States
+Komodo Health,SF Bay Area,Healthcare,23,4/20/2020,United States
+Forward,SF Bay Area,Healthcare,10,4/20/2020,United States
+Hipcamp,SF Bay Area,Travel,3,4/20/2020,United States
+Motif Investing,SF Bay Area,Finance,12,4/18/2020,United States
+BlackBuck,Bengaluru,Logistics,200,4/17/2020,India
+ContaAzul,Joinville,Education,140,4/17/2020,Brazil
+Greenhouse Software,New York City,Recruiting,120,4/17/2020,United States
+QuintoAndar,Sao Paulo,Real Estate,88,4/17/2020,Brazil
+Loft,Sao Paulo,Real Estate,47,4/17/2020,Brazil
+Zilingo,Singapore,Retail,44,4/17/2020,Singapore
+Labster,Copenhagen,Education,40,4/17/2020,Denmark
+Sweetgreen,Los Angeles,Food,35,4/17/2020,United States
+People.ai,SF Bay Area,Marketing,30,4/17/2020,United States
+Tor,Boston,Security,13,4/17/2020,United States
+BitGo,SF Bay Area,Crypto,4,4/17/2020,United States
+Dispatch,Boston,Other,4,4/17/2020,United States
+Food52,New York City,Food,5,4/17/2020,United States
+Influitive,Toronto,Marketing,15,4/17/2020,Canada
+CarGurus,Boston,Transportation,130,4/16/2020,United States
+Funding Societies,Singapore,Finance,65,4/16/2020,Singapore
+CleverTap,Mumbai,Marketing,60,4/16/2020,India
+CrowdRiff,Toronto,Marketing,11,4/16/2020,Canada
+FullStory,Atlanta,Marketing,11,4/16/2020,United States
+Grailed,New York City,Retail,9,4/16/2020,United States
+LumenAd,Missoula,Marketing,3,4/16/2020,United States
+Purse,SF Bay Area,Crypto,2,4/16/2020,United States
+SquadVoice,Columbus,Real Estate,3,4/16/2020,United States
+Opendoor,SF Bay Area,Real Estate,600,4/15/2020,United States
+GoPro,SF Bay Area,Consumer,200,4/15/2020,United States
+Shop101,Mumbai,Retail,200,4/15/2020,India
+Zume,SF Bay Area,Food,200,4/15/2020,United States
+Carta,SF Bay Area,Finance,161,4/15/2020,United States
+Akulaku,Jakarta,Finance,100,4/15/2020,Indonesia
+Parsable,SF Bay Area,HR,40,4/15/2020,United States
+Kodiak Robotics,SF Bay Area,Transportation,15,4/15/2020,United States
+Tulip Retail,Toronto,Retail,14,4/15/2020,Canada
+Trove Recommerce,SF Bay Area,Retail,13,4/15/2020,United States
+Dude Solutions,Raleigh,Other,11,4/15/2020,United States
+SweetEscape,Jakarta,Consumer,3,4/15/2020,Indonesia
+View,SF Bay Area,Energy,7,4/15/2020,United States
+The RealReal,SF Bay Area,Retail,235,4/14/2020,United States
+TouchBistro,Toronto,Food,131,4/14/2020,Canada
+Envoy,SF Bay Area,HR,58,4/14/2020,United States
+VSCO,SF Bay Area,Consumer,45,4/14/2020,United States
+Skillz,SF Bay Area,Consumer,21,4/14/2020,United States
+DataStax,SF Bay Area,Data,15,4/14/2020,United States
+Xerpa,Sao Paulo,HR,10,4/14/2020,Brazil
+Aura Financial,SF Bay Area,Finance,4,4/14/2020,United States
+RedDoorz,Singapore,Travel,6,4/14/2020,Singapore
+Groupon,Chicago,Retail,2800,4/13/2020,United States
+Zoox,SF Bay Area,Transportation,100,4/13/2020,United States
+Neon,Sao Paulo,Finance,70,4/13/2020,Brazil
+EasyPost,SF Bay Area,Logistics,50,4/13/2020,United States
+Clearbanc,Toronto,Finance,17,4/13/2020,Canada
+Meow Wolf,Santa Fe,Media,201,4/10/2020,United States
+Frontdesk,Milwaukee,Travel,35,4/10/2020,United States
+BeeTech,Sao Paulo,Finance,30,4/10/2020,Brazil
+Built In,Chicago,Recruiting,28,4/10/2020,United States
+NuoDB,Boston,Data,20,4/10/2020,United States
+Rhumbix,SF Bay Area,Construction,16,4/10/2020,United States
+Atsu,Seattle,Infrastructure,6,4/10/2020,United States
+Geekwire,Seattle,Media,5,4/10/2020,United States
+FloQast,Los Angeles,Finance,6,4/10/2020,United States
+Yelp,SF Bay Area,Consumer,1000,4/9/2020,United States
+Monzo,Las Vegas,Finance,165,4/9/2020,United States
+OneTrust,Atlanta,Legal,150,4/9/2020,United States
+Omie,Sao Paulo,Finance,136,4/9/2020,Brazil
+Domo,Salt Lake City,Data,90,4/9/2020,United States
+Matterport,SF Bay Area,Data,90,4/9/2020,United States
+Clinc,Ann Arbor,Support,40,4/9/2020,United States
+Mejuri,Toronto,Retail,36,4/9/2020,Canada
+Code42,Minneapolis,Data,25,4/9/2020,United States
+Lighthouse Labs,Toronto,Education,14,4/9/2020,Canada
+LoopMe,London,Marketing,8,4/9/2020,United Kingdom
+CipherTrace,SF Bay Area,Crypto,12,4/9/2020,United States
+Elliptic,London,Crypto,4,4/9/2020,United Kingdom
+Zest AI,Los Angeles,Finance,2,4/9/2020,United States
+Eventbrite,SF Bay Area,Consumer,500,4/8/2020,United States
+Meesho,Bengaluru,Retail,200,4/8/2020,India
+Scoop,SF Bay Area,Transportation,92,4/8/2020,United States
+Unison,SF Bay Area,Finance,89,4/8/2020,United States
+Lever,SF Bay Area,Recruiting,86,4/8/2020,United States
+Unbabel,Lisbon,Support,80,4/8/2020,Portugal
+Button,New York City,Marketing,48,4/8/2020,United States
+Eden / Managed By Q,New York City,Real Estate,40,4/8/2020,United States
+Quantcast,SF Bay Area,Marketing,30,4/8/2020,United States
+BVAccel,San Diego,Marketing,25,4/8/2020,United States
+VideoAmp,Los Angeles,Marketing,21,4/8/2020,United States
+Kenoby,Sao Paulo,Recruiting,18,4/8/2020,Brazil
+Connected,Toronto,Product,17,4/8/2020,Canada
+GetNinjas,Sao Paulo,Consumer,11,4/8/2020,Brazil
+Spyce,Boston,Food,4,4/8/2020,United States
+Creditas,Sao Paulo,Finance,15,4/8/2020,Brazil
+Lytics,Portland,Marketing,7,4/8/2020,United States
+RedDoorz,Singapore,Travel,3,4/8/2020,Singapore
+Slice Labs,New York City,Finance,3,4/8/2020,United States
+TechAdvance,Lagos,Finance,12,4/8/2020,Nigeria
+Zola,New York City,Retail,15,4/8/2020,United States
+Toast,Boston,Food,1300,4/7/2020,United States
+ezCater,Boston,Food,400,4/7/2020,United States
+Sage Therapeutics,Boston,Healthcare,340,4/7/2020,United States
+Redfin,Seattle,Real Estate,236,4/7/2020,United States
+Branch Metrics,SF Bay Area,Marketing,100,4/7/2020,United States
+Newfront Insurance,SF Bay Area,Finance,94,4/7/2020,United States
+Ibotta,Denver,Retail,87,4/7/2020,United States
+Virta Health,SF Bay Area,Healthcare,65,4/7/2020,United States
+Away,New York City,Retail,60,4/7/2020,United States
+MediaMath,New York City,Marketing,53,4/7/2020,United States
+Group Nine Media,New York City,Media,50,4/7/2020,United States
+Payfactors,Boston,HR,46,4/7/2020,United States
+Nav,Salt Lake City,Finance,30,4/7/2020,United States
+AskNicely,Portland,Support,2,4/7/2020,United States
+RainFocus,Salt Lake City,Marketing,11,4/7/2020,United States
+Metromile,SF Bay Area,Finance,100,4/6/2020,United States
+Rock Content,Belo Horizonte,Marketing,100,4/6/2020,Brazil
+BounceX,New York City,Marketing,77,4/6/2020,United States
+C6 Bank,Sao Paulo,Finance,60,4/6/2020,Brazil
+Wordstream,Boston,Marketing,26,4/6/2020,United States
+Cogito,Boston,Support,24,4/6/2020,United States
+BusBud,Montreal,Transportation,23,4/6/2020,Canada
+Borrowell,Toronto,Finance,15,4/6/2020,Canada
+PerkSpot,Chicago,HR,10,4/6/2020,United States
+Bitfarms,Quebec,Crypto,4,4/6/2020,Canada
+Hopper,Boston,Travel,8,4/6/2020,United States
+Mapbox,Washington D.C.,Data,8,4/6/2020,United States
+Astra,SF Bay Area,Aerospace,40,4/5/2020,United States
+Iflix,Kuala Lumpur,Consumer,50,4/4/2020,Malaysia
+Gympass,Sao Paulo,Fitness,467,4/3/2020,Brazil
+Sojern,SF Bay Area,Marketing,300,4/3/2020,United States
+MaxMilhas,Belo Horizonte,Travel,167,4/3/2020,Brazil
+Minted,SF Bay Area,Retail,147,4/3/2020,United States
+Velodyne Lidar,SF Bay Area,Transportation,140,4/3/2020,United States
+Zoox,SF Bay Area,Transportation,120,4/3/2020,United States
+Traveloka,Jakarta,Travel,100,4/3/2020,Indonesia
+Arrive Logistics,Austin,Logistics,75,4/3/2020,United States
+Salsify,Boston,Retail,60,4/3/2020,United States
+Jetty,New York City,Finance,35,4/3/2020,United States
+D2iQ,SF Bay Area,Infrastructure,34,4/3/2020,United States
+Bustle Digital Group,New York City,Media,24,4/3/2020,United States
+Bustle Digital Group,New York City,Media,19,4/3/2020,United States
+Opencare,Toronto,Healthcare,18,4/3/2020,Canada
+Anagram,Los Angeles,Healthcare,17,4/3/2020,United States
+G/O Media Group,New York City,Media,14,4/3/2020,United States
+DSCO,Salt Lake City,Retail,12,4/3/2020,United States
+Tripbam,Dallas,Travel,10,4/3/2020,United States
+Avantage Entertainment,Minneapolis,Media,5,4/3/2020,United States
+Alegion,Austin,Data,7,4/3/2020,United States
+AllyO,SF Bay Area,HR,5,4/3/2020,United States
+Mews,Prague,Travel,6,4/3/2020,Czech Republic
+PeopleGrove,SF Bay Area,HR,11,4/3/2020,United States
+The Muse,New York City,Recruiting,13,4/3/2020,United States
+The Wing,New York City,Real Estate,2,4/3/2020,United States
+MindBody,San Luis Obispo,Fitness,700,4/2/2020,United States
+Katerra,SF Bay Area,Construction,240,4/2/2020,United States
+Ritual,Toronto,Food,196,4/2/2020,Canada
+ClassPass,New York City,Fitness,154,4/2/2020,United States
+eGym,Munich,Fitness,100,4/2/2020,Germany
+Voi,Stockholm,Transportation,100,4/2/2020,Sweden
+Industrious,New York City,Real Estate,90,4/2/2020,United States
+1stdibs,New York City,Retail,70,4/2/2020,United States
+ThirdLove,SF Bay Area,Retail,65,4/2/2020,United States
+Latch,New York City,Security,60,4/2/2020,United States
+The Predictive Index,Boston,HR,59,4/2/2020,United States
+Shuttl,New Delhi,Transportation,40,4/2/2020,India
+Jobcase,Boston,Recruiting,39,4/2/2020,United States
+Copper,SF Bay Area,Marketing,35,4/2/2020,United States
+Dynamic Signal,SF Bay Area,HR,35,4/2/2020,United States
+FiscalNote,Washington D.C.,Media,30,4/2/2020,United States
+Sauce Labs,SF Bay Area,Infrastructure,30,4/2/2020,United States
+Humu,SF Bay Area,HR,26,4/2/2020,United States
+TripleLift,New York City,Marketing,23,4/2/2020,United States
+Coding Dojo,Seattle,Education,7,4/2/2020,United States
+Instamojo,Bengaluru,Finance,6,4/2/2020,India
+Synergysuite,Salt Lake City,Food,5,4/2/2020,United States
+Atlanta Tech Village,Atlanta,Real Estate,6,4/2/2020,United States
+Capillary,Bengaluru,Retail,7,4/2/2020,India
+Modsy,SF Bay Area,Retail,6,4/2/2020,United States
+The Modist,Dubai,Retail,6,4/2/2020,United Arab Emirates
+Wonder,New York City,Other,14,4/2/2020,United States
+Booksy,SF Bay Area,Consumer,200,4/1/2020,United States
+Flymya,Yangon,Travel,200,4/1/2020,Myanmar
+PatientPop,Los Angeles,Healthcare,100,4/1/2020,United States
+Showpad,Chicago,Marketing,52,4/1/2020,United States
+Highsnobiety,Berlin,Media,51,4/1/2020,Germany
+Earnin,SF Bay Area,Finance,50,4/1/2020,United States
+Wonolo,SF Bay Area,Recruiting,46,4/1/2020,United States
+Acko,Mumbai,Finance,45,4/1/2020,India
+Moovel,Portland,Transportation,28,4/1/2020,United States
+Aqua Security,Tel Aviv,Security,24,4/1/2020,Israel
+Crayon,Boston,Marketing,20,4/1/2020,United States
+Pana,Denver,Travel,18,4/1/2020,United States
+Sensibill,Toronto,Finance,17,4/1/2020,Canada
+Usermind,Seattle,Marketing,15,4/1/2020,United States
+Incredible Health,SF Bay Area,Healthcare,9,4/1/2020,United States
+Currency,Los Angeles,Finance,2,4/1/2020,United States
+GOAT Group,Los Angeles,Retail,2,4/1/2020,United States
+Le Tote,SF Bay Area,Retail,5,4/1/2020,United States
+Levelset,New Orleans,Construction,8,4/1/2020,United States
+Pebblepost,New York City,Marketing,6,4/1/2020,United States
+WhyHotel,Washington D.C.,Travel,9,4/1/2020,United States
+KeepTruckin,SF Bay Area,Logistics,349,3/31/2020,United States
+AdRoll,Salt Lake City,Marketing,210,3/31/2020,United States
+Rover,Seattle,Consumer,194,3/31/2020,United States
+Turo,SF Bay Area,Transportation,108,3/31/2020,United States
+uShip,Austin,Logistics,65,3/31/2020,United States
+SkySlope,Sacramento,Real Estate,50,3/31/2020,United States
+Siteimprove,Minneapolis,Marketing,40,3/31/2020,United States
+AngelList,SF Bay Area,Recruiting,20,3/31/2020,United States
+Zenoti,Seattle,Fitness,17,3/31/2020,United States
+DialSource,Sacramento,Marketing,5,3/31/2020,United States
+Adara,SF Bay Area,Travel,4,3/31/2020,United States
+Claravine,Salt Lake City,Marketing,14,3/31/2020,United States
+Domio,New York City,Travel,9,3/31/2020,United States
+Kazoo,Austin,HR,9,3/31/2020,United States
+Snap Finance,Salt Lake City,Finance,12,3/31/2020,United States
+Zerto,Boston,Infrastructure,5,3/31/2020,United States
+Thumbtack,SF Bay Area,Consumer,250,3/30/2020,United States
+RigUp,Austin,Energy,120,3/30/2020,United States
+FabHotels,New Delhi,Travel,80,3/30/2020,India
+Hibob,Tel Aviv,HR,70,3/30/2020,Israel
+PeerStreet,Los Angeles,Finance,51,3/30/2020,United States
+Maven,Seattle,Media,31,3/30/2020,United States
+Blume Global,SF Bay Area,Logistics,30,3/30/2020,United States
+Catalant,Boston,Other,30,3/30/2020,United States
+Starship Technologies,Tallin,Transportation,30,3/30/2020,Estonia
+Loftsmart,New York City,Real Estate,25,3/30/2020,United States
+Caliva,SF Bay Area,Retail,20,3/30/2020,United States
+Iris Nova,New York City,Food,9,3/30/2020,United States
+Cuyana,SF Bay Area,Retail,5,3/30/2020,United States
+ZipRecruiter,Los Angeles,Recruiting,400,3/29/2020,United States
+Amplero,Seattle,Marketing,17,3/29/2020,United States
+Polarr,SF Bay Area,Consumer,10,3/29/2020,United States
+TravelTriangle,Gurugram,Travel,250,3/28/2020,India
+WeWork,New York City,Real Estate,250,3/28/2020,United States
+Rent the Runway,New York City,Retail,11,3/28/2020,United States
+OneWeb,London,Aerospace,451,3/27/2020,United Kingdom
+Bird,Los Angeles,Transportation,406,3/27/2020,United States
+HOOQ,Singapore,Consumer,250,3/27/2020,Singapore
+Everlane,SF Bay Area,Retail,227,3/27/2020,United States
+DataRobot,Boston,Data,200,3/27/2020,United States
+Restaurant365,Los Angeles,Food,175,3/27/2020,United States
+Blueground,New York City,Real Estate,130,3/27/2020,United States
+Knotel,New York City,Real Estate,127,3/27/2020,United States
+Getaround,SF Bay Area,Transportation,100,3/27/2020,United States
+Zipcar,Boston,Transportation,100,3/27/2020,United States
+Mogo,Vancouver,Finance,78,3/27/2020,Canada
+DISCO,Austin,Legal,75,3/27/2020,United States
+Raken,San Diego,Construction,60,3/27/2020,United States
+Bench,Vancouver,Finance,47,3/27/2020,Canada
+Loft,Sao Paulo,Real Estate,47,3/27/2020,Brazil
+Oh My Green,SF Bay Area,Food,40,3/27/2020,United States
+Bevi,Boston,Food,30,3/27/2020,United States
+Textio,Seattle,Recruiting,30,3/27/2020,United States
+Opal,Portland,Marketing,20,3/27/2020,United States
+ThirdLove,New York City,Retail,10,3/27/2020,United States
+Bcredi,Curitiba,Finance,3,3/27/2020,Brazil
+Make School,SF Bay Area,Education,8,3/27/2020,United States
+Pivot3,Austin,Infrastructure,14,3/27/2020,United States
+B8ta,SF Bay Area,Retail,250,3/26/2020,United States
+Fareportal,Gurugram,Travel,200,3/26/2020,India
+Puppet,Portland,Infrastructure,50,3/26/2020,United States
+Ecobee,Toronto,Energy,47,3/26/2020,Canada
+Passport,Charlotte,Transportation,44,3/26/2020,United States
+Peerspace,SF Bay Area,Real Estate,41,3/26/2020,United States
+GoSpotCheck,Denver,Retail,23,3/26/2020,United States
+Consider.co,SF Bay Area,Other,13,3/26/2020,United States
+Nativo,Los Angeles,Marketing,15,3/26/2020,United States
+TripActions,SF Bay Area,Travel,300,3/25/2020,United States
+Lyric,SF Bay Area,Real Estate,100,3/25/2020,United States
+Rangle,Toronto,Product,78,3/25/2020,Canada
+O'Reilly Media,SF Bay Area,Media,75,3/25/2020,United States
+WanderJaunt,SF Bay Area,Travel,56,3/25/2020,United States
+OutboundEngine,Austin,Marketing,52,3/25/2020,United States
+Wonderschool,SF Bay Area,Education,50,3/25/2020,United States
+Overtime,New York City,Media,30,3/25/2020,United States
+Jama,Portland,Product,12,3/25/2020,United States
+Element Analytics,SF Bay Area,Data,10,3/25/2020,United States
+Clever Real Estate,St. Louis,Real Estate,11,3/25/2020,United States
+Clutter,Los Angeles,Consumer,4,3/25/2020,United States
+Divvy Homes,SF Bay Area,Real Estate,4,3/25/2020,United States
+Universal Standard,New York City,Retail,15,3/25/2020,United States
+Sonder,SF Bay Area,Travel,400,3/24/2020,United States
+Takl,Nashville,Consumer,130,3/24/2020,United States
+Foodsby,Minneapolis,Food,87,3/24/2020,United States
+Zeus Living,SF Bay Area,Real Estate,80,3/24/2020,United States
+TravelBank,SF Bay Area,Travel,20,3/24/2020,United States
+Flowr,Toronto,Retail,7,3/24/2020,Canada
+Peerfit,Tampa Bay,HR,10,3/24/2020,United States
+SpotHero,Chicago,Transportation,4,3/24/2020,United States
+Compass,New York City,Real Estate,375,3/23/2020,United States
+Convene,New York City,Real Estate,150,3/23/2020,United States
+Leafly,Seattle,Retail,91,3/23/2020,United States
+The Guild,Austin,Travel,38,3/23/2020,United States
+Drip,Salt Lake City,Marketing,20,3/23/2020,United States
+GrayMeta,Los Angeles,Data,20,3/23/2020,United States
+Triplebyte,SF Bay Area,Recruiting,15,3/23/2020,United States
+Ladder Life,SF Bay Area,Finance,13,3/23/2020,United States
+Cabin,SF Bay Area,Travel,13,3/23/2020,United States
+Eight Sleep,New York City,Retail,10,3/23/2020,United States
+Zwift,Los Angeles,Fitness,5,3/23/2020,United States
+Flywheel Sports,New York City,Fitness,784,3/20/2020,United States
+Peek,Salt Lake City,Travel,45,3/20/2020,United States
+CTO.ai,Vancouver,Infrastructure,30,3/20/2020,Canada
+Yonder,Austin,Media,18,3/20/2020,United States
+Service,Los Angeles,Travel,3,3/20/2020,United States
+Vacasa,Portland,Travel,9,3/20/2020,United States
+Bounce,Bengaluru,Transportation,120,3/19/2020,India
+Ejento,SF Bay Area,Recruiting,84,3/19/2020,United States
+Remote Year,Chicago,Travel,50,3/19/2020,United States
+Lola,Boston,Travel,34,3/19/2020,United States
+Anyvision,Tel Aviv,Security,10,3/19/2020,Israel
+Popin,New York City,Fitness,30,3/19/2020,United States
+Tuft & Needle,Phoenix,Retail,12,3/19/2020,United States
+Flytedesk,Boulder,Marketing,4,3/18/2020,United States
+Inspirato,Denver,Travel,130,3/16/2020,United States
+Help.com,Austin,Support,16,3/16/2020,United States
+Service,Los Angeles,Travel,4,3/16/2020,United States
+HopSkipDrive,Los Angeles,Transportation,8,3/13/2020,United States
+Panda Squad,SF Bay Area,Consumer,6,3/13/2020,United States
+Tamara Mellon,Los Angeles,Retail,20,3/12/2020,United States
+EasyPost,Salt Lake City,Logistics,75,3/11/2020,United States
